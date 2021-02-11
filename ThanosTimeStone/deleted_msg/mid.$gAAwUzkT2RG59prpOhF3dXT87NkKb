@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100052108844679",
+    "body": "",
+    "threadID": "3400575873336430",
+    "messageID": "mid.$gAAwUzkT2RG59prpOhF3dXT87NkKb",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "446935466437572",
+            "filename": "image-446935466437572",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/130516159_402311737852851_1747154027600231202_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=RuDv4S_wXbIAX8GWr7v&_nc_oc=AQkNR01gUPspDLMCcEiugBPxuxXcJe1ZQsjI36HmVI0Vjy916nX6FDxB-wV-IfgZvI0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=c4a1200143d488d6d570bf704cb9fcdc&oe=60440038",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/130516159_402311737852851_1747154027600231202_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=RuDv4S_wXbIAX8GWr7v&_nc_oc=AQkNR01gUPspDLMCcEiugBPxuxXcJe1ZQsjI36HmVI0Vjy916nX6FDxB-wV-IfgZvI0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=6b15361f789af58b390f4b54be25f8c6&oe=6044E055",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130516159_402311737852851_1747154027600231202_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=RuDv4S_wXbIAX8GWr7v&_nc_oc=AQkNR01gUPspDLMCcEiugBPxuxXcJe1ZQsjI36HmVI0Vjy916nX6FDxB-wV-IfgZvI0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=34f142581fa0ed87e51a4149b9921a54&oe=60455B54",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130516159_402311737852851_1747154027600231202_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=RuDv4S_wXbIAX8GWr7v&_nc_oc=AQkNR01gUPspDLMCcEiugBPxuxXcJe1ZQsjI36HmVI0Vjy916nX6FDxB-wV-IfgZvI0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=34f142581fa0ed87e51a4149b9921a54&oe=60455B54",
+            "width": 1005,
+            "height": 1005,
+            "name": "image-446935466437572"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612583339652",
+    "isGroup": true
+}

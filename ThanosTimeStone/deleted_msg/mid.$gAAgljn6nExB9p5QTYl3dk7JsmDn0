@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2293093754147600",
+    "messageID": "mid.$gAAgljn6nExB9p5QTYl3dk7JsmDn0",
+    "senderID": "100056624513911",
+    "attachments": [],
+    "body": ".",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612597611362,
+    "messageReply": {
+        "threadID": "2293093754147600",
+        "messageID": "mid.$gAAgljn6nExB9p5P_X13dk61Sq8bv",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "@Nguyễn Q.Hải đã xoá 1 tin nhắn. \r\nNội dung: Bot tuổi lồn",
+        "isGroup": true,
+        "mentions": {
+            "100056624513911": "Nguyễn Q.Hải "
+        },
+        "timestamp": 1612597606239
+    }
+}

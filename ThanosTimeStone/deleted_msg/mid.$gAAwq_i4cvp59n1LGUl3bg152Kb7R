@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3424970904223390",
+    "messageID": "mid.$gAAwq_i4cvp59n1LGUl3bg152Kb7R",
+    "senderID": "100036172718243",
+    "attachments": [],
+    "body": "Bủh",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612459114066,
+    "messageReply": {
+        "threadID": "3424970904223390",
+        "messageID": "mid.$gAAwq_i4cvp59n1Kf0l3bg0l7PSA-",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "@Nguyễn Huy Hoàng Anh đã xoá 1 tin nhắn. \r\nNội dung: Chấp",
+        "isGroup": true,
+        "mentions": {
+            "100043837059082": "Nguyễn Huy Hoàng Anh "
+        },
+        "timestamp": 1612459104210
+    }
+}

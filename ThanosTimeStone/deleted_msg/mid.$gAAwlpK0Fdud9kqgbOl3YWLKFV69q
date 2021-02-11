@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100050450568515",
+    "body": "@Hoàng Bảo",
+    "threadID": "3419088928208615",
+    "messageID": "mid.$gAAwlpK0Fdud9kqgbOl3YWLKFV69q",
+    "attachments": [],
+    "mentions": {
+        "100020239507753": "@Hoàng Bảo"
+    },
+    "timestamp": "1612246602554",
+    "isGroup": true
+}

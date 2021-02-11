@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3618605484881943",
+    "messageID": "mid.$gAAzbGj6COBd9nkwShF3bQbEIl44S",
+    "senderID": "100025951062069",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "485291792860088",
+            "filename": "image-485291792860088",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/145931259_485291796193421_2726079325423521703_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aNPQDxMjJ9MAX-zI6w_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=f29561dd7386854668826621e11965df&oe=603FB2B8",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/145931259_485291796193421_2726079325423521703_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aNPQDxMjJ9MAX-zI6w_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=f72e7d6e0004b629a84471a138d21ff5&oe=6042BF22",
+            "previewWidth": 280,
+            "previewHeight": 320,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145931259_485291796193421_2726079325423521703_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aNPQDxMjJ9MAX-zI6w_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=f5e8110906ca976f3f997fe3e395e387&oe=60434EA7",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 548,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145931259_485291796193421_2726079325423521703_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=aNPQDxMjJ9MAX-zI6w_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=f5e8110906ca976f3f997fe3e395e387&oe=60434EA7",
+            "width": 720,
+            "height": 822,
+            "name": "image-485291792860088"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612441897604,
+    "messageReply": {
+        "threadID": "3618605484881943",
+        "messageID": "mid.$gAAzbGj6COBd9nkvUJ13bQaJsfLk2",
+        "senderID": "100053195782755",
+        "attachments": [],
+        "body": "/say hà ngáo",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612441881639
+    }
+}

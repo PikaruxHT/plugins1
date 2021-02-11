@@ -1,0 +1,41 @@
+{
+    "type": "message_reply",
+    "threadID": "3396563837120183",
+    "messageID": "mid.$gAAwRKCT37rd9cE1_UF3Pwgl4XTsd",
+    "senderID": "100054796597807",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1611670237000-3483.mp4",
+            "ID": "AT0MpaAWQleriCVLmWCYIrTyQlnaIYQyImq8_TbPcxS0RYGLTY6x52Vrhal1xosABnxsiTzer2ztLBt4ibMGGZZ46tRUFSYgPpfFs-RHeBP_EK6onPVzzMtOGu4Cl3nt5BHZEDbR_vN1lE1OxcUBqFp8z0k",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 3483,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/141792289_713191636056448_5877078012895096179_n.mp4/audioclip-1611670237000-3483.mp4?_nc_cat=106&ccb=2&_nc_sid=7272a8&_nc_ohc=StiY9Kp1F3YAX_8W8tC&_nc_ht=cdn.fbsbx.com&oh=6c5f1abcf511cce2c8674bbdc25e957a&oe=6011FF43&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611670239056,
+    "messageReply": {
+        "threadID": "3396563837120183",
+        "messageID": "mid.$gAAwRKCT37rd9cEvC8V3PwZuseIxa",
+        "senderID": "100042130114868",
+        "attachments": [
+            {
+                "type": "audio",
+                "filename": "audioclip-1611670124000-6618.mp4",
+                "ID": "AT03VSAX43wCmiEei1Qs69WYhJKzI_4VRR5eSz69N4_7UcmOCcDncR64Be-cR6AXL80X6lMy68udGKuQMKg_W8_hpUxxiFVtbYgtMqDD4rpS3vBQEorMaaondNN-k2S46SWQiEBE19Nkm8atr3Sl_0Fu5GQ",
+                "audioType": "VOICE_MESSAGE",
+                "duration": 6618,
+                "url": "https://cdn.fbsbx.com/v/t59.3654-21/139972977_211600570660287_1919912507086796349_n.mp4/audioclip-1611670124000-6618.mp4?_nc_cat=101&ccb=2&_nc_sid=7272a8&_nc_ohc=sLMN1VwmDz0AX9y69-1&_nc_oc=AQludq1bL4jBbbY-mrJPSc77PNsT_uThd33jvcN-AgJLt9ysoI2yVGipqmxLcMRaYuE&_nc_ht=cdn.fbsbx.com&oh=9f8d20cf88c03a2dadc69a866335731f&oe=6011D60D&dl=1",
+                "isVoiceMail": true
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611670125297
+    }
+}

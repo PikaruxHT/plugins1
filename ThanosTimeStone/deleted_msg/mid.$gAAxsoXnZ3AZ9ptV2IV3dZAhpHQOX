@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3497140510383110",
+    "messageID": "mid.$gAAxsoXnZ3AZ9ptV2IV3dZAhpHQOX",
+    "senderID": "100054602041572",
+    "attachments": [],
+    "body": "Sâtn ăn à",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612585119265,
+    "messageReply": {
+        "threadID": "3497140510383110",
+        "messageID": "mid.$gAAxsoXnZ3AZ9ptPGI13dY56J98f4",
+        "senderID": "100052108844679",
+        "attachments": [],
+        "body": "Santa spawn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612585008675
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3396563837120183",
+    "messageID": "mid.$gAAwRKCT37rd9lCeiJF3YuJWPe186",
+    "senderID": "100054796597807",
+    "attachments": [],
+    "body": "@Hồng Thắm",
+    "isGroup": true,
+    "mentions": {
+        "100051690882632": "@Hồng Thắm"
+    },
+    "timestamp": 1612271737380,
+    "messageReply": {
+        "threadID": "3396563837120183",
+        "messageID": "mid.$gAAwRKCT37rd9lCdYL13YuILajF62",
+        "senderID": "100052205678976",
+        "attachments": [],
+        "body": "Tr lấy ảnh tui để  các kiểu 😅😅😅",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612271718447
+    }
+}

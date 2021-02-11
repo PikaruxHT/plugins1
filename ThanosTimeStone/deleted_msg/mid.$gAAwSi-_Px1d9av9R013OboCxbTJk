@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9av9R013OboCxbTJk",
+    "senderID": "100041886817074",
+    "attachments": [],
+    "body": "Why?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611581229523,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9av8xol3ObnpMpu_0",
+        "senderID": "100044796019910",
+        "attachments": [],
+        "body": "Ko cho",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611581221282
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9cIjQ4F3P0OH27Ri_",
+    "senderID": "100054587095351",
+    "attachments": [],
+    "body": "Bị",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611674126560,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9cIinJV3P0Nc2IvFl",
+        "senderID": "100054552038238",
+        "attachments": [],
+        "body": "@Viên Đinh  show ảnh làm bìa box",
+        "isGroup": true,
+        "mentions": {
+            "100022559433075": "@Viên Đinh"
+        },
+        "timestamp": 1611674115877
+    }
+}

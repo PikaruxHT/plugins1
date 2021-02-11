@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9dYdaV13REINR-XcH",
+    "senderID": "100038098600890",
+    "attachments": [],
+    "body": "Anh bảo yêu em chưa có phải yêu mình em đâu :((",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611757916759,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9dYKZc13RD0wcwmgN",
+        "senderID": "100026147344207",
+        "attachments": [],
+        "body": "yeu em nhiều lắm😙",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611757605235
+    }
+}

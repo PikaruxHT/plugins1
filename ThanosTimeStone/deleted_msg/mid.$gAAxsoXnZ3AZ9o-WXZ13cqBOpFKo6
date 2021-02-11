@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3497140510383110",
+    "messageID": "mid.$gAAxsoXnZ3AZ9o-WXZ13cqBOpFKo6",
+    "senderID": "100048522486835",
+    "attachments": [],
+    "body": "Magic",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612535844711,
+    "messageReply": {
+        "threadID": "3497140510383110",
+        "messageID": "mid.$gAAxsoXnZ3AZ9o-VDpF3cp_2x0Hcv",
+        "senderID": "100009321222378",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "125762256080112",
+                "filename": "image-125762256080112",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/145593328_125762259413445_5571034371818344514_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=XE8z-19fFDwAX8esiV1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=2486243215fd800c61d6b71017fa99a5&oe=60419298",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/145593328_125762259413445_5571034371818344514_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=XE8z-19fFDwAX8esiV1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=df72f49b0d35c016153aa3266c99db7e&oe=604140AF",
+                "previewWidth": 622,
+                "previewHeight": 280,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145593328_125762259413445_5571034371818344514_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=XE8z-19fFDwAX8esiV1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ccfdc4454bfaaadf00532c0748eb014e&oe=6044402A",
+                "largePreviewWidth": 1067,
+                "largePreviewHeight": 480,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145593328_125762259413445_5571034371818344514_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=XE8z-19fFDwAX8esiV1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ccfdc4454bfaaadf00532c0748eb014e&oe=6044402A",
+                "width": 1200,
+                "height": 540,
+                "name": "image-125762256080112"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612535823268
+    }
+}

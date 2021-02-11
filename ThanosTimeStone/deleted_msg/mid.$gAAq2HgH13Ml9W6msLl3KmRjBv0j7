@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3014989765270729",
+    "messageID": "mid.$gAAq2HgH13Ml9W6msLl3KmRjBv0j7",
+    "senderID": "100057663714217",
+    "attachments": [],
+    "body": "Có em ở Khánh Hòa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611323958318,
+    "messageReply": {
+        "threadID": "3014989765270729",
+        "messageID": "mid.$gAAq2HgH13Ml9W6llm13KmQZ33np8",
+        "senderID": "100049732744543",
+        "attachments": [],
+        "body": "ở đây có ai Hà Nội khongg 🥺",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611323940251
+    }
+}

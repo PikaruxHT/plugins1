@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3633421280060563",
+    "messageID": "mid.$gAAzok9C3pJN9aHAJa13Nyq9Jm0M8",
+    "senderID": "100048979682663",
+    "attachments": [],
+    "body": "Me too",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611538284907,
+    "messageReply": {
+        "threadID": "3633421280060563",
+        "messageID": "mid.$gAAzok9C3pJN9aG-wb13Nypj-criL",
+        "senderID": "100059060963781",
+        "attachments": [],
+        "body": "Không bị đau bao tử",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611538262127
+    }
+}

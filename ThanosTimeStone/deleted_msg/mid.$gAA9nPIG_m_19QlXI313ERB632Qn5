@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19QlXI313ERB632Qn5",
+    "senderID": "100030726042355",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "1105503093229273",
+            "filename": "image-1105503093229273",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/139799468_1105503096562606_7394294939263846060_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=2JDAv0hCpxgAX-_VuOO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=c1d404acb528fe09ce1eb01a59d16f6e&oe=602A5305",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/139799468_1105503096562606_7394294939263846060_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=2JDAv0hCpxgAX-_VuOO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d5d6033e69b56cf8d0bddac5c715c307&oe=60296241",
+            "previewWidth": 270,
+            "previewHeight": 562,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/139799468_1105503096562606_7394294939263846060_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=2JDAv0hCpxgAX-_VuOO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d5d6033e69b56cf8d0bddac5c715c307&oe=60296241",
+            "largePreviewWidth": 270,
+            "largePreviewHeight": 562,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/139799468_1105503096562606_7394294939263846060_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=2JDAv0hCpxgAX-_VuOO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d5d6033e69b56cf8d0bddac5c715c307&oe=60296241",
+            "width": 270,
+            "height": 562,
+            "name": "image-1105503093229273"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1610899030239,
+    "messageReply": {
+        "threadID": "4335634223176701",
+        "messageID": "mid.$gAA9nPIG_m_19QlWgG13ERBT-k5ux",
+        "senderID": "100014301822620",
+        "attachments": [],
+        "body": "Thôi tôi cần đẹp trai cao cơ",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1610899019803
+    }
+}

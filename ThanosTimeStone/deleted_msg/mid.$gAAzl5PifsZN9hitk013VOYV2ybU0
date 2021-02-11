@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9hitk013VOYV2ybU0",
+    "senderID": "100054796597807",
+    "attachments": [],
+    "body": "Nè",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612037102803,
+    "messageReply": {
+        "threadID": "3630471307047315",
+        "messageID": "mid.$gAAzl5PifsZN9hiJVX13VN0JktgMl",
+        "senderID": "100054212611207",
+        "attachments": [],
+        "body": "Vòng 1 ảnh đấy ko đc 70 đâu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612036509023
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9mbnQD13aHR-rxEds",
+    "senderID": "100054796597807",
+    "attachments": [],
+    "body": "1017982730",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612365203471,
+    "messageReply": {
+        "threadID": "3630471307047315",
+        "messageID": "mid.$gAAzl5PifsZN9mbkaxV3aHPOGSZ0V",
+        "senderID": "100034806185676",
+        "attachments": [],
+        "body": "Bank cho",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612365157061
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "message_reply",
+    "threadID": "4224780477547480",
+    "messageID": "mid.$gAA8CalueQ9h9mVwDt13aBbJFMPfb",
+    "senderID": "100045087065679",
+    "attachments": [],
+    "body": "Đù má tôi mới quay xong",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612359056311,
+    "messageReply": {
+        "threadID": "4224780477547480",
+        "messageID": "mid.$gAA8CalueQ9h9mVsI3F3aA5D2ngn1",
+        "senderID": "100035629703228",
+        "attachments": [
+            {
+                "type": "share",
+                "ID": "ee.mid.$gAA8CalueQ9h9mVsI3F3aA5D2ngn1",
+                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FieYzvna7XAk&h=AT3DAKfNiBC-EKczPzW8JjWva4G_QQMPqVdQHbz1ZJJOU6IS1MB9-dJLDuBiVBlJpa0iVWtffRzSGr74lKCEsoxjVfJd9iDdQCOMYujRnf2PHeZGTCmV9mWjJET1Y-OZgUKmRRyc4ZkS4dI&s=1",
+                "title": "THỦ DÂM không gây hai cho ai nhưng phải chịu QUẢ BÁO RẤT LỚN... các quý ông nên nghe mà tránh",
+                "description": "PHÁP THOẠI HOẰNG PHÁP là kênh Youtube chuyên đăng tải các bài giảng (pháp thoại) Phật giáo của những giảng sư hàng đầu hiện nay: Thích Chân Tính, Thích Bửu C...",
+                "source": "youtube.com",
+                "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQFQwg-6wlTh3QJP&w=480&h=360&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FieYzvna7XAk%2Fhqdefault.jpg&_nc_cb=1&_nc_hash=AQH4R0symHcNYhXq",
+                "width": 480,
+                "height": 360,
+                "playable": false,
+                "duration": 0,
+                "playableUrl": null,
+                "subattachments": [],
+                "properties": {
+                    "width": "480",
+                    "height": "360"
+                },
+                "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FieYzvna7XAk&h=AT3DAKfNiBC-EKczPzW8JjWva4G_QQMPqVdQHbz1ZJJOU6IS1MB9-dJLDuBiVBlJpa0iVWtffRzSGr74lKCEsoxjVfJd9iDdQCOMYujRnf2PHeZGTCmV9mWjJET1Y-OZgUKmRRyc4ZkS4dI&s=1",
+                "target": {
+                    "__typename": "ExternalUrl"
+                },
+                "styleList": [
+                    "share",
+                    "fallback"
+                ]
+            }
+        ],
+        "body": "https://youtu.be/ieYzvna7XAk",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612358992092
+    }
+}

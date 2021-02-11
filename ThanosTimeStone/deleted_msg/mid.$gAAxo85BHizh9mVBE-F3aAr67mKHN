@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3493095027477304",
+    "messageID": "mid.$gAAxo85BHizh9mVBE-F3aAr67mKHN",
+    "senderID": "100058236275371",
+    "attachments": [],
+    "body": "Như qq",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612358286584,
+    "messageReply": {
+        "threadID": "3493095027477304",
+        "messageID": "mid.$gAAxo85BHizh9mU-XC13aAopAU6Vr",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "@Uchiha's Sasuke's đã xoá 1 tin nhắn. \r\n\r\nAttachments:\r\nhttps://tinyurl.com/y4v2v43p\r\n\r\nNội dung:",
+        "isGroup": true,
+        "mentions": {
+            "100058236275371": "Uchiha's Sasuke's "
+        },
+        "timestamp": 1612358242059
+    }
+}

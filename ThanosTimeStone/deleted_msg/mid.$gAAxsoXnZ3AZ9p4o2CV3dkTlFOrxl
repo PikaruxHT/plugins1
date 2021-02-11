@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3497140510383110",
+    "messageID": "mid.$gAAxsoXnZ3AZ9p4o2CV3dkTlFOrxl",
+    "senderID": "100050845898094",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "936713193532226",
+            "filename": "image-936713193532226",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/146553584_936713196865559_4878280686041596397_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=zbVH0KONdP8AX-_AD8Y&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=b5281fad7561b1af573285a074b4d7a3&oe=604507D5",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/146553584_936713196865559_4878280686041596397_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=zbVH0KONdP8AX-_AD8Y&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=9c220b9380ef6c9b1f437512b6a1811f&oe=604242C3",
+            "previewWidth": 498,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/146553584_936713196865559_4878280686041596397_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=zbVH0KONdP8AX-_AD8Y&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8e2b1a6e220f62f7653a58cd0bb2aa3e&oe=60458685",
+            "largePreviewWidth": 766,
+            "largePreviewHeight": 431,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/146553584_936713196865559_4878280686041596397_n.png?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=zbVH0KONdP8AX-_AD8Y&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8e2b1a6e220f62f7653a58cd0bb2aa3e&oe=60458685",
+            "width": 766,
+            "height": 431,
+            "name": "image-936713193532226"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612596964873,
+    "messageReply": {
+        "threadID": "3497140510383110",
+        "messageID": "mid.$gAAxsoXnZ3AZ9p4bxb13dkGo0JVEN",
+        "senderID": "100042611431511",
+        "attachments": [],
+        "body": "Vào liên quân thôi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612596750703
+    }
+}

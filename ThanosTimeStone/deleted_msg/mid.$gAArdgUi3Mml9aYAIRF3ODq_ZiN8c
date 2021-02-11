@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3058297107591785",
+    "messageID": "mid.$gAArdgUi3Mml9aYAIRF3ODq_ZiN8c",
+    "senderID": "100048035378416",
+    "attachments": [],
+    "body": "Cái này là câu lệnh máy tính ấy",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611556110404,
+    "messageReply": {
+        "threadID": "3058297107591785",
+        "messageID": "mid.$gAArdgUi3Mml9aXgtkF3ODLiOyCzz",
+        "senderID": "100021870551830",
+        "attachments": [],
+        "body": "Khó hiểu vc",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611555595664
+    }
+}

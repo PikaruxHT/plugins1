@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3574629889290747",
+    "messageID": "mid.$gAAyzG2DBMft9UTTsfl3H-9_78bN2",
+    "senderID": "100061896114626",
+    "attachments": [],
+    "body": "Lệnh này đã bị cấm.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611148534910,
+    "messageReply": {
+        "threadID": "3574629889290747",
+        "messageID": "mid.$gAAyzG2DBMft9UTTpjl3H--c2RrAK",
+        "senderID": "100042929551685",
+        "attachments": [],
+        "body": "!admin banCmd hentai",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611148534158
+    }
+}

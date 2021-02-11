@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19LdesjF2_JJjPbWzx",
+    "senderID": "100012722643604",
+    "attachments": [],
+    "body": "Có",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1610555221132,
+    "messageReply": {
+        "threadID": "4335634223176701",
+        "messageID": "mid.$gAA9nPIG_m_19Lc2VB12_IhGRaFtT",
+        "senderID": "100034229410762",
+        "attachments": [],
+        "body": "Ai game k",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1610554559751
+    }
+}

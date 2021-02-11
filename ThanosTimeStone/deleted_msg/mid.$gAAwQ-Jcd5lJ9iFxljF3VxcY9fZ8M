@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100057076152092",
+    "body": "",
+    "threadID": "3396359593780818",
+    "messageID": "mid.$gAAwQ-Jcd5lJ9iFxljF3VxcY9fZ8M",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAwQ-Jcd5lJ9iFxljF3VxcY9fZ8M",
+            "url": null,
+            "title": "Tệp đính kèm không khả dụng",
+            "description": "File đính kèm này có thể đã bị gỡ hoặc người đã chia sẻ nó không có quyền chia sẻ với bạn.",
+            "source": null,
+            "image": null,
+            "width": null,
+            "height": null,
+            "playable": null,
+            "duration": null,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_native_templates",
+                "unavailable",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612073868684",
+    "isGroup": true
+}

@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100061896114626",
+    "body": "Thanh Nguyên, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 2!",
+    "threadID": "1884857371564483",
+    "messageID": "mid.$gAAayRI4VmcN9T2BZK13Hhrl8LG9G",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "3609254385855013",
+            "filename": "gif-3609254385855013",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "name": "gif-3609254385855013",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7"
+        }
+    ],
+    "mentions": {
+        "100010626404125": "Thanh Nguyên"
+    },
+    "timestamp": "1611117826347",
+    "isGroup": true
+}

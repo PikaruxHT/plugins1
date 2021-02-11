@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100040046596712",
+    "body": "",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZXIee13NCzJVyuXw",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAwSi-_Px1d9ZXIee13NCzJVyuXw",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fshopee.vn%2Fproduct%2F14746382%2F4560479058%3Fsmtt%3D0.286831487-1611488078.5&h=AT1AowH8VaTcvba7DdX8BrdmQQtL7C3SbdG06x5NpzOZj6gWsjXrze2adx7sZ9Ug2jt_8THdG2_3ckSWxV9RifCOgCzgDYK-XwhmyTfNLfbl0lgmSVmjpoVxv3nqxDeFEPLityMDeVWTwuI&s=1",
+            "title": "Áo thun bò sữa tay dài form rộng Unisex, Sweater bò sữa Hot trend SWBO | Shopee Việt Nam",
+            "description": "Mua Áo thun bò sữa tay dài form rộng Unisex, Sweater bò sữa Hot trend SWBO giá tốt. Mua hàng qua mạng uy tín, tiện lợi. Shopee đảm bảo nhận hàng, hoặc được hoàn lại tiền Giao Hàng Miễn Phí. XEM NGAY!",
+            "source": "shopee.vn",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQGVHARWt29PqJxV&w=800&h=800&url=https%3A%2F%2Fcf.shopee.vn%2Ffile%2F1c73ca398903971d837d44029fae632e&_nc_cb=1&_nc_hash=AQGTrXlAS-baBv3o",
+            "width": 800,
+            "height": 800,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "800",
+                "height": "800"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fshopee.vn%2Fproduct%2F14746382%2F4560479058%3Fsmtt%3D0.286831487-1611488078.5&h=AT1AowH8VaTcvba7DdX8BrdmQQtL7C3SbdG06x5NpzOZj6gWsjXrze2adx7sZ9Ug2jt_8THdG2_3ckSWxV9RifCOgCzgDYK-XwhmyTfNLfbl0lgmSVmjpoVxv3nqxDeFEPLityMDeVWTwuI&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611488089723",
+    "isGroup": true
+}

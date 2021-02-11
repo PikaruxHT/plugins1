@@ -1,0 +1,151 @@
+{
+    "type": "message",
+    "senderID": "100036757380792",
+    "body": "",
+    "threadID": "2581849698606521",
+    "messageID": "mid.$gAAksLbomHbl9phDi5F3dMuY1qWWk",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAksLbomHbl9phDi5F3dMuY1qWWk",
+            "url": "https://www.facebook.com/hienrauuu/posts/3852418078112900",
+            "title": "",
+            "description": "Tưởng bài này thế nào, gặp tôi tôi cũng chả đánh được :'(\n\nCre trên vid",
+            "source": "Hiển Râu",
+            "image": "https://scontent.xx.fbcdn.net/v/t15.13418-10/p180x540/141831414_238152987868856_1505563119462328647_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ad6a45&_nc_ohc=wey1h8yCqrYAX9jlw9p&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=22f507d1026a02f2c008590925cd078d&oe=60450D1E",
+            "width": 960,
+            "height": 540,
+            "playable": true,
+            "duration": 133653,
+            "playableUrl": "https://video.xx.fbcdn.net/v/t42.1790-2/146380317_459818982055328_971762501838516644_n.mp4?_nc_cat=109&ccb=2&_nc_sid=985c63&efg=eyJybHIiOjM2NywicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoibGVnYWN5X3NkIn0%3D&_nc_ohc=9bnrsmQMmcEAX_ISk9o&rl=367&vabr=204&_nc_ht=video.xx&oh=20a1fdd001a41c0dd66324c3a2244e8f&oe=601E03F4",
+            "subattachments": [
+                {
+                    "description": null,
+                    "messenger_generic_xma_template_extra_info": null,
+                    "media": {
+                        "animated_image": null,
+                        "image": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t15.13418-10/p180x540/141831414_238152987868856_1505563119462328647_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ad6a45&_nc_ohc=wey1h8yCqrYAX9jlw9p&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=22f507d1026a02f2c008590925cd078d&oe=60450D1E",
+                            "height": 540,
+                            "width": 960
+                        },
+                        "playable_duration_in_ms": 133653,
+                        "is_playable": true,
+                        "playable_url": "https://video.xx.fbcdn.net/v/t42.1790-2/146380317_459818982055328_971762501838516644_n.mp4?_nc_cat=109&ccb=2&_nc_sid=985c63&efg=eyJybHIiOjM2NywicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoibGVnYWN5X3NkIn0%3D&_nc_ohc=9bnrsmQMmcEAX_ISk9o&rl=367&vabr=204&_nc_ht=video.xx&oh=20a1fdd001a41c0dd66324c3a2244e8f&oe=601E03F4"
+                    },
+                    "source": null,
+                    "style_list": [
+                        "video_inline",
+                        "video",
+                        "games_app",
+                        "fallback"
+                    ],
+                    "title_with_entities": {
+                        "text": "Xàm xí pt mấy ấy"
+                    },
+                    "properties": [
+                        {
+                            "key": "can_autoplay_result",
+                            "value": {
+                                "text": "gatekeeper"
+                            }
+                        }
+                    ],
+                    "url": "https://www.facebook.com/hienrauuu/videos/1109632172886478/",
+                    "deduplication_key": "f44305adfa99f148832035d0d6649818",
+                    "action_links": [],
+                    "messaging_attribution": null,
+                    "messenger_call_to_actions": [],
+                    "xma_layout_info": null,
+                    "target": {
+                        "__typename": "Video",
+                        "video_id": "1109632172886478"
+                    }
+                }
+            ],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/hienrauuu/posts/3852418078112900",
+            "target": {
+                "__typename": "Story",
+                "title": null,
+                "message_richtext": [],
+                "feedback": {
+                    "comment_count_reduced": "147",
+                    "top_level_comments": {
+                        "total_count": 147
+                    },
+                    "reaction_count_reduced": "4,2K",
+                    "top_reactions": {
+                        "nodes": [
+                            {
+                                "reaction_type": "LIKE"
+                            },
+                            {
+                                "reaction_type": "HAHA"
+                            },
+                            {
+                                "reaction_type": "SORRY"
+                            }
+                        ]
+                    }
+                },
+                "post_id": "3852418078112900",
+                "creation_time": 1612447857,
+                "description": {
+                    "text": "Tưởng bài này thế nào, gặp tôi tôi cũng chả đánh được :'(\n\nCre trên vid"
+                },
+                "actors": [
+                    {
+                        "__typename": "Page",
+                        "name": "Hiển Râu",
+                        "id": "545495272138547",
+                        "url": "https://www.facebook.com/hienrauuu/",
+                        "profile_picture": {
+                            "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/c0.0.50.50a/p50x50/137296638_3792645390756836_1867832759986705041_o.jpg?_nc_cat=108&ccb=2&_nc_sid=1eb0c7&_nc_ohc=w6zFMSpr3KUAX_2OlWW&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=877f33bfa994ae4527c9657fb0925ffa&oe=6041E8CC",
+                            "height": 50,
+                            "width": 50
+                        }
+                    }
+                ],
+                "to": null,
+                "attachments": [
+                    {
+                        "style_list": [
+                            "video_inline",
+                            "video",
+                            "games_app",
+                            "fallback"
+                        ],
+                        "url": "https://www.facebook.com/hienrauuu/videos/1109632172886478/",
+                        "source": null,
+                        "description": null,
+                        "media": {
+                            "is_playable": true,
+                            "image": {
+                                "uri": "https://scontent.xx.fbcdn.net/v/t15.13418-10/p180x540/141831414_238152987868856_1505563119462328647_n.jpg?_nc_cat=107&ccb=2&_nc_sid=ad6a45&_nc_ohc=wey1h8yCqrYAX9jlw9p&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=22f507d1026a02f2c008590925cd078d&oe=60450D1E",
+                                "height": 540,
+                                "width": 960
+                            }
+                        },
+                        "title": {
+                            "text": "Xàm xí pt mấy ấy"
+                        },
+                        "all_subattachments": {
+                            "count": 0,
+                            "files": [],
+                            "images": []
+                        }
+                    }
+                ],
+                "attached_story": null
+            },
+            "styleList": [
+                "attached_story",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612572236516",
+    "isGroup": true
+}

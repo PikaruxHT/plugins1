@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3262128350500867",
+    "messageID": "mid.$gAAuW43GLGAN9TlX8V13HRCWaX2aR",
+    "senderID": "100061896114626",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng -help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `-transfer`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611100370007,
+    "messageReply": {
+        "threadID": "3262128350500867",
+        "messageID": "mid.$gAAuW43GLGAN9TlX5l13HRC2wJ4XE",
+        "senderID": "100014144928693",
+        "attachments": [],
+        "body": "-rank",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611100369303
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3645062998909452",
+    "messageID": "mid.$gAAzzKl074gx9khzRSV3YNeIg1ccL",
+    "senderID": "100039179059966",
+    "attachments": [],
+    "body": "Đâu phải như ml m. Đù má trên xe ra muốn banh cl mà đù má vẫn bắn của c",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612237474121,
+    "messageReply": {
+        "threadID": "3645062998909452",
+        "messageID": "mid.$gAAzzKl074gx9khr6jV3YNWusKhPt",
+        "senderID": "100039288011030",
+        "attachments": [],
+        "body": "Đm dại gái bay",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612237353613
+    }
+}

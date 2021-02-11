@@ -1,0 +1,44 @@
+{
+    "type": "message",
+    "senderID": "100037863412143",
+    "body": "https://www.facebook.com/durex.hoc",
+    "threadID": "3014989765270729",
+    "messageID": "mid.$gAAq2HgH13Ml9dW2IgF3RCg_47oqj",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAq2HgH13Ml9dW2IgF3RCg_47oqj",
+            "url": "https://www.facebook.com/durex.hoc",
+            "title": "Hoangg Hieuu Hoc",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/139519429_466950304466779_6335510141971109227_n.jpg?_nc_cat=105&ccb=2&_nc_sid=dbb9e7&_nc_ohc=vyuefBiNQDEAX9iNLoL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d597dea2b235634948a6d55723163b84&oe=6036E575",
+            "width": 960,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/durex.hoc",
+            "target": {
+                "__typename": "User",
+                "id": "100034554393766",
+                "name": "Hoangg Hieuu Hoc",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/139519429_466950304466779_6335510141971109227_n.jpg?_nc_cat=105&ccb=2&_nc_sid=7206a8&_nc_ohc=vyuefBiNQDEAX9iNLoL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=c2572feccb35147635016a9c7fbe7482&oe=6037B22E"
+                },
+                "cover_photo": null,
+                "work_info": null,
+                "subscribe_status": "CAN_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611756224640",
+    "isGroup": true
+}

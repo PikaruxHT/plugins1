@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9l_FL8V3Zqv-eEGoK",
+    "senderID": "100054796597807",
+    "attachments": [],
+    "body": "Chỉ có óc tó ms ko thấy",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612335285233,
+    "messageReply": {
+        "threadID": "3630471307047315",
+        "messageID": "mid.$gAAzl5PifsZN9l-6BWV3Zqk1PUICg",
+        "senderID": "100054212611207",
+        "attachments": [],
+        "body": "Địt cụ a ko bấm vào ảnh nhìn xem có thấy đen ko",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612335102297
+    }
+}

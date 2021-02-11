@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9a6_Xyl3Omp9scasi",
+    "senderID": "100050627959121",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1611592797000-22292.mp4",
+            "ID": "AT3h0-iWN7ldDcC9SS0--h8qwuczbSG-TApt7MxXGutE05zAah1-79_T6PFlN6HvXHgpuYmK1CmMOVUCdx2svAhwvq6TtmIVEupCokx1Gp-P6OQfMCUSOUb-NXJp0MIA1kaJwlML1QqePAfgdkJwYH2WR7k",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 22292,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/142248382_909569986449424_3300953703565429848_n.mp4/audioclip-1611592797000-22292.mp4?_nc_cat=106&ccb=2&_nc_sid=7272a8&_nc_ohc=MUG5YpUlx3UAX-AwR_G&_nc_ht=cdn.fbsbx.com&oh=9ba1e5e7b979670ecf2477e22ed493f3&oe=60109FD1&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611592798154,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9a63VYl3OmiIMp9C_",
+        "senderID": "100024507767681",
+        "attachments": [],
+        "body": "Đi thi rap việt đi =))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611592666466
+    }
+}

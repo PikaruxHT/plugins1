@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZgTbPF3NL-SMadM1",
+    "senderID": "100054587095351",
+    "attachments": [],
+    "body": "K đặt cũng phải đặt",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611497706300,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9ZgN0K13NL4mhZFeA",
+        "senderID": "100009045487781",
+        "attachments": [],
+        "body": "Không đặt biệt danh được:((",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611497614379
+    }
+}

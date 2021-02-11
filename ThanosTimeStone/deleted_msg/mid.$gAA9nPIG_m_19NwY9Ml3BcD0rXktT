@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100055580561787",
+    "body": "",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19NwY9Ml3BcD0rXktT",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA9nPIG_m_19NwY9Ml3BcD0rXktT",
+            "url": null,
+            "title": "Hello mng mình thấy mng tham gia event nhiều nên mik cũng tham gia ạ\nIg:HT • hσαɢáутσ\nTên:Lê Thị Mỹ Hoa\nTuổi:16\nSở thích:sủa dơ\nClan hiện tại:HouseTiger\nLí do mình tham gia là muốn tìm 1 bạn ad chơi chung lâu dài\nChúc clan ngày càng phát triển ạ!❤\n#HT",
+            "description": "Facebook",
+            "source": "Facebook",
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-9/137513151_199406258588725_7478575721177062972_n.jpg?_nc_cat=105&ccb=2&_nc_sid=07e735&_nc_ohc=Xb2cVbIWqZgAX_CHRkv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=ba22b2ab6a5d407249f88522a3a82f50&oe=6028F971",
+            "width": 712,
+            "height": 337,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": "https://www.facebook.com/",
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_generic_template",
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1610709267762",
+    "isGroup": true
+}

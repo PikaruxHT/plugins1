@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2929139163786855",
+    "messageID": "mid.$gAApoCVta7md9Vr_eUF3JXqR66f-E",
+    "senderID": "100022327488651",
+    "attachments": [],
+    "body": "Ok",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611241526864,
+    "messageReply": {
+        "threadID": "2929139163786855",
+        "messageID": "mid.$gAApoCVta7md9Vr-jZF3JXor3SgF0",
+        "senderID": "100061896114626",
+        "attachments": [],
+        "body": "Sai lệnh. Sử dụng -help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `-trumptweet`?",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611241511780
+    }
+}

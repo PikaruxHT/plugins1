@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4693368644066475",
+    "messageID": "mid.$gABCsmArUXKt9plItsV3dQzXgAZGn",
+    "senderID": "100058503616143",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "155131049754836",
+            "filename": "image-155131049754836",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/147014121_155131056421502_6099647439584945880_n.jpg?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=UinAL0ziOTUAX_UOWln&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=d5615926d732091b17c0a559a46acf26&oe=604300D4",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/147014121_155131056421502_6099647439584945880_n.jpg?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=UinAL0ziOTUAX_UOWln&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a0811b07af4c942ce702d3b6ea23e9b7&oe=60453706",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/147014121_155131056421502_6099647439584945880_n.jpg?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=UinAL0ziOTUAX_UOWln&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=cfffba78c417c0206ecffc5984680a40&oe=60428883",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/147014121_155131056421502_6099647439584945880_n.jpg?_nc_cat=108&ccb=2&_nc_sid=ae9488&_nc_ohc=UinAL0ziOTUAX_UOWln&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=cfffba78c417c0206ecffc5984680a40&oe=60428883",
+            "width": 720,
+            "height": 1280,
+            "name": "image-155131049754836"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612576515505,
+    "messageReply": {
+        "threadID": "4693368644066475",
+        "messageID": "mid.$gABCsmArUXKt9plDtl13dQukYs_PS",
+        "senderID": "100044283922537",
+        "attachments": [],
+        "body": "Mn showw nhanh đi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612576433559
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "message_reply",
+    "threadID": "3396563837120183",
+    "messageID": "mid.$gAAwRKCT37rd9ppv4_F3dVaf_1Aod",
+    "senderID": "100054796597807",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "audioclip-1612581349000-1069.mp4",
+            "ID": "AT1V37p_15nTikUhx8WAxQ8uezaG78gkae0ESc2CmL1QnuR4ROHq9fSDHPHGl_pSSSDmxRaLpOzMN_FdeQ-JHy7nthsHhwDhvKQ1JlyudDwA28TsOOVrB2DLSb5CuAaXOXFzR7d39skIp-i7G8xnkSorQdE",
+            "audioType": "VOICE_MESSAGE",
+            "duration": 1069,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/146063840_3615202841909416_1989755580003223171_n.mp4/audioclip-1612581349000-1069.mp4?_nc_cat=106&ccb=2&_nc_sid=7272a8&_nc_ohc=p5nJh0tjYT0AX_IRphH&_nc_ht=cdn.fbsbx.com&oh=1f1ea77a988be954f6ac849cc8e1cc25&oe=601FD379&dl=1",
+            "isVoiceMail": true
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612581351676,
+    "messageReply": {
+        "threadID": "3396563837120183",
+        "messageID": "mid.$gAAwRKCT37rd9pprZQF3dVWNnMKXP",
+        "senderID": "100052205678976",
+        "attachments": [],
+        "body": "Sáng dậy đã ngoi đầu vào đt òi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612581278016
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100007613014531",
+    "body": "/kick @Vũ Bé Kẹt",
+    "threadID": "4030621743677355",
+    "messageID": "mid.$gAA5R1EFBf6t9mW7FJF3aCmBCF5FK",
+    "attachments": [],
+    "mentions": {
+        "100012243008059": "@Vũ Bé Kẹt"
+    },
+    "timestamp": "1612360285476",
+    "isGroup": true
+}

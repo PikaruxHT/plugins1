@@ -1,0 +1,13 @@
+{
+    "type": "message",
+    "senderID": "100052422905902",
+    "body": "@Trần Linh",
+    "threadID": "3409829852429842",
+    "messageID": "mid.$gAAwdOOEZPhJ9axlPil3OdQGHaBs-",
+    "attachments": [],
+    "mentions": {
+        "100049535400935": "@Trần Linh"
+    },
+    "timestamp": "1611582932874",
+    "isGroup": true
+}

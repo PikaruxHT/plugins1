@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9aWr13V3OCWjPNpTL",
+    "senderID": "100028511839170",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "520510042256364",
+            "filename": "image-520510042256364",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/130824424_201946234870076_6348253565626860086_n.jpg?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=hO-mKGhGDVwAX_iv_1u&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=c0ecd53a46e9188af835f41dcb150678&oe=60349A35",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/130824424_201946234870076_6348253565626860086_n.jpg?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=hO-mKGhGDVwAX_iv_1u&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=d8eb49d572776b3940cd6a981bae5172&oe=6034B9E3",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130824424_201946234870076_6348253565626860086_n.jpg?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=hO-mKGhGDVwAX_iv_1u&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b6afb87f2c7b2d75e13a21785a9afc5b&oe=6033A4E6",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/130824424_201946234870076_6348253565626860086_n.jpg?_nc_cat=104&ccb=2&_nc_sid=ae9488&_nc_ohc=hO-mKGhGDVwAX_iv_1u&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=b6afb87f2c7b2d75e13a21785a9afc5b&oe=6033A4E6",
+            "width": 675,
+            "height": 1200,
+            "name": "image-520510042256364"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611554729437,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9aWmLwV3OCRCxxzMH",
+        "senderID": "100054552038238",
+        "attachments": [],
+        "body": "Ảnh đâu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611554636737
+    }
+}

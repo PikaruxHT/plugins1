@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19XJPK3l3K08nq32RY",
+    "senderID": "100033011326184",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "729454287965829",
+            "filename": "image-729454287965829",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p50x50/121177906_2743716015948801_6383872740617548432_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=6rNtBpSahPIAX8R1-gv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=65953f2bc67f3b964b845e6e0fb6d58a&oe=60300137",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121177906_2743716015948801_6383872740617548432_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=6rNtBpSahPIAX8R1-gv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=00b6eafd0996ae47a98bc4739e06f02f&oe=602FFC2E",
+            "previewWidth": 280,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121177906_2743716015948801_6383872740617548432_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=6rNtBpSahPIAX8R1-gv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=f025c39b475aa3f0ca4d9197f74ac09f&oe=6030A33F",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/121177906_2743716015948801_6383872740617548432_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=6rNtBpSahPIAX8R1-gv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=f025c39b475aa3f0ca4d9197f74ac09f&oe=6030A33F",
+            "width": 534,
+            "height": 534,
+            "name": "image-729454287965829"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611339301598,
+    "messageReply": {
+        "threadID": "4335634223176701",
+        "messageID": "mid.$gAA9nPIG_m_19XJNVEV3K04L4Sq5A",
+        "senderID": "100034229410762",
+        "attachments": [],
+        "body": "Em cũng đg tìm việc làm",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611339271441
+    }
+}

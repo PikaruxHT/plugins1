@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3998578460155004",
+    "messageID": "mid.$gAA40r5i5XHx9k5ZvpV3YlEi84HPz",
+    "senderID": "100023993928598",
+    "attachments": [],
+    "body": "/simsimi thấy sao",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612262221733,
+    "messageReply": {
+        "threadID": "3998578460155004",
+        "messageID": "mid.$gAA40r5i5XHx9k5Tl1F3Yk9KOQ0gP",
+        "senderID": "100058077275235",
+        "attachments": [],
+        "body": "nài bot t tạo dm",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612262120916
+    }
+}

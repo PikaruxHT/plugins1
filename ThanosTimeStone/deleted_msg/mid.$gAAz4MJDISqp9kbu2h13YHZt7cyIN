@@ -1,0 +1,44 @@
+{
+    "type": "message",
+    "senderID": "100027908944430",
+    "body": "/simsimi tui rip acc này nha bot \nhttps://www.facebook.com/shbzhdhenbx",
+    "threadID": "3650587191691946",
+    "messageID": "mid.$gAAz4MJDISqp9kbu2h13YHZt7cyIN",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAz4MJDISqp9kbu2h13YHZt7cyIN",
+            "url": "https://www.facebook.com/shbzhdhenbx",
+            "title": "Quynh Trang",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/144103683_407263227222004_5914168742990425930_n.jpg?_nc_cat=102&ccb=2&_nc_sid=dbb9e7&_nc_ohc=F_9AXqVyq7kAX-eI81T&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a17dac72e41713acbfdf7ca49eb506fb&oe=603F0972",
+            "width": 709,
+            "height": 698,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/shbzhdhenbx",
+            "target": {
+                "__typename": "User",
+                "id": "100038149890648",
+                "name": "Quynh Trang",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/144103683_407263227222004_5914168742990425930_n.jpg?_nc_cat=102&ccb=2&_nc_sid=7206a8&_nc_ohc=F_9AXqVyq7kAX-eI81T&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=03c43462f9900c20fb4f0da867b31ebd&oe=603FABA9"
+                },
+                "cover_photo": null,
+                "work_info": null,
+                "subscribe_status": "IS_SUBSCRIBED"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612231110279",
+    "isGroup": true
+}

@@ -1,0 +1,44 @@
+{
+    "type": "message",
+    "senderID": "100026590723754",
+    "body": "https://www.facebook.com/nguyenmanhcuonh\n7 k13 nè",
+    "threadID": "3804175569635119",
+    "messageID": "mid.$gAA2D4KV9xy99MuZnL13AaEcwcwfF",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA2D4KV9xy99MuZnL13AaEcwcwfF",
+            "url": "https://www.facebook.com/nguyenmanhcuonh",
+            "title": "Cuong Nguyen",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/c0.24.720.720a/134939151_2784171378473004_1985835124892381860_o.jpg?_nc_cat=104&ccb=2&_nc_sid=dbb9e7&_nc_ohc=LfcY4iszcw4AX8CkG_Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=29&oh=d17c4f93ae0aef2c8db81abd475bbefd&oe=6026F71D",
+            "width": 720,
+            "height": 720,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/nguyenmanhcuonh",
+            "target": {
+                "__typename": "User",
+                "id": "100006405065071",
+                "name": "Cuong Nguyen",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/c0.2.50.50a/p50x50/134939151_2784171378473004_1985835124892381860_o.jpg?_nc_cat=104&ccb=2&_nc_sid=7206a8&_nc_ohc=LfcY4iszcw4AX8CkG_Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=f466a787ae072984a39e7ec4a5448ef0&oe=6024230B"
+                },
+                "cover_photo": null,
+                "work_info": null,
+                "subscribe_status": "CAN_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1610640072495",
+    "isGroup": true
+}

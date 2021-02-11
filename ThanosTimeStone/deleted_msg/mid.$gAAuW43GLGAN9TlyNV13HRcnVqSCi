@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3262128350500867",
+    "messageID": "mid.$gAAuW43GLGAN9TlyNV13HRcnVqSCi",
+    "senderID": "100061896114626",
+    "attachments": [],
+    "body": "Lệnh bạn đã nhập không tồn tại. Ý bạn là !morse, phải không?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611100800343,
+    "messageReply": {
+        "threadID": "3262128350500867",
+        "messageID": "mid.$gAAuW43GLGAN9TlyMDF3HRdDwH99Y",
+        "senderID": "100035377006172",
+        "attachments": [],
+        "body": "!sex",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611100800012
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3840704125979828",
+    "messageID": "mid.$gAA2lGZ0dzLR9dn4HhV3RTiSsfaX3",
+    "senderID": "100055576384414",
+    "attachments": [],
+    "body": "@Ngân Kim ko ngủ đc ý",
+    "isGroup": true,
+    "mentions": {
+        "100042403340091": "@Ngân Kim"
+    },
+    "timestamp": 1611774082949,
+    "messageReply": {
+        "threadID": "3840704125979828",
+        "messageID": "mid.$gAA2lGZ0dzLR9dnIH7V3RSywJQ7FL",
+        "senderID": "100058805164747",
+        "attachments": [],
+        "body": "Ngủ đi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611773296621
+    }
+}

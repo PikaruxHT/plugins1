@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100027582333552",
+    "body": "-audio https://youtu.be/3df83nUZxFk",
+    "threadID": "3737746719601574",
+    "messageID": "mid.$gAA1Hdfl7c6Z9U_RJb13Iq78-WLb4",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA1Hdfl7c6Z9U_RJb13Iq78-WLb4",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F3df83nUZxFk&h=AT22l8Eag6GFMZgSiRMRs0EF9MjCl_K_91mdBIN1ChmFt8mFvIDsdVffNG5lumjkeQrDJBifXTmUDqXfLjXdVjYpFNptwoWxFQqJ6PNM3nM1gSDoPhrMQsUP41gtNgsLfrBPCng2i8F05As&s=1",
+            "title": "(FREE) Lofi Type Beat - Hopeless Romantic (prod. Yusei)",
+            "description": "Purchase beats: https://www.beatstars.com/yuseiworld/tracksSERIOUS INQUIRIES ONLY: william.bands12@gmail.comhttps://twitter.com/junkiewillhttps://www.instagr...",
+            "source": "youtube.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQFsaC-R1X2Xbi-D&w=960&h=540&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3df83nUZxFk%2Fmaxresdefault.jpg&_nc_cb=1&_nc_hash=AQGoFVKFeyPimAle",
+            "width": 960,
+            "height": 540,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "1280",
+                "height": "720"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F3df83nUZxFk&h=AT22l8Eag6GFMZgSiRMRs0EF9MjCl_K_91mdBIN1ChmFt8mFvIDsdVffNG5lumjkeQrDJBifXTmUDqXfLjXdVjYpFNptwoWxFQqJ6PNM3nM1gSDoPhrMQsUP41gtNgsLfrBPCng2i8F05As&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611194630511",
+    "isGroup": true
+}

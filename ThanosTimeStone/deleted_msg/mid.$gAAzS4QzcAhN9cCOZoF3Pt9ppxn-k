@@ -1,0 +1,28 @@
+{
+    "type": "message",
+    "senderID": "100053267118821",
+    "body": "cam thường nhìn xấu thật sự 🤦",
+    "threadID": "3609563745747475",
+    "messageID": "mid.$gAAzS4QzcAhN9cCOZoF3Pt9ppxn-k",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "166198998600785",
+            "filename": "image-166198998600785",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/141335972_222448059507063_1882015170964609219_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=IBE12phuf-4AX8rNX22&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=c9c7a254aedfd7864506aae8a9e70b62&oe=6034CB6F",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/141335972_222448059507063_1882015170964609219_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=IBE12phuf-4AX8rNX22&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=1a165110c57278813d66534b8fad0395&oe=603758D8",
+            "previewWidth": 589,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/141335972_222448059507063_1882015170964609219_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=IBE12phuf-4AX8rNX22&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=e825807cd679bbff78a67aa77148f315&oe=603466D1",
+            "largePreviewWidth": 1009,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/141335972_222448059507063_1882015170964609219_n.jpg?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=IBE12phuf-4AX8rNX22&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=e825807cd679bbff78a67aa77148f315&oe=603466D1",
+            "width": 1632,
+            "height": 776,
+            "name": "image-166198998600785"
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611667493280",
+    "isGroup": true
+}

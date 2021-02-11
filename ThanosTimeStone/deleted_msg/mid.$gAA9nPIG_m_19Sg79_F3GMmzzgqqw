@@ -1,0 +1,41 @@
+{
+    "type": "message_reply",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19Sg79_F3GMmzzgqqw",
+    "senderID": "100026622245447",
+    "attachments": [],
+    "body": "Chơi k kaydup",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611028608508,
+    "messageReply": {
+        "threadID": "4335634223176701",
+        "messageID": "mid.$gAA9nPIG_m_19Sg2Xjl3GMhN0aqO7",
+        "senderID": "100042900317106",
+        "attachments": [
+            {
+                "type": "sticker",
+                "ID": "830546436966578",
+                "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/10734343_830546440299911_1033595969_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=STqvn4yJHAkAX_eWwzx&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=4448485623dc5b4dbbfab74f27fab23a&oe=602D8268",
+                "packID": "830501653637723",
+                "spriteUrl": null,
+                "spriteUrl2x": null,
+                "width": 240,
+                "height": 240,
+                "caption": "Sad, Taz the dog with rain clouds",
+                "description": "Sad, Taz the dog with rain clouds",
+                "frameCount": 1,
+                "frameRate": 83,
+                "framesPerRow": 1,
+                "framesPerCol": 1,
+                "stickerID": "830546436966578",
+                "spriteURI": null,
+                "spriteURI2x": null
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611028516750
+    }
+}

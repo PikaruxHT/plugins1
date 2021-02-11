@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "4224780477547480",
+    "messageID": "mid.$gAA8CalueQ9h9nsd6t13bYIqJzAEH",
+    "senderID": "100029028491691",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "829470614500239",
+            "filename": "image-829470614500239",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/p34x34/145861281_680124762668530_5199736997325170134_n.jpg?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=vhWTb0dk57YAX-R4XaC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=df5fdec6ffb1c4de92de9a79d8cc1618&oe=60420803",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/145861281_680124762668530_5199736997325170134_n.jpg?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=vhWTb0dk57YAX-R4XaC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=90e6e388dfe79fbff8eb1b8a961437a8&oe=6040F295",
+            "previewWidth": 280,
+            "previewHeight": 344,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145861281_680124762668530_5199736997325170134_n.jpg?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=vhWTb0dk57YAX-R4XaC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7ed02af860404931c1d8f6ba00640daa&oe=6040F394",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 589,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145861281_680124762668530_5199736997325170134_n.jpg?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=vhWTb0dk57YAX-R4XaC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=7ed02af860404931c1d8f6ba00640daa&oe=6040F394",
+            "width": 1080,
+            "height": 1326,
+            "name": "image-829470614500239"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612449985207,
+    "messageReply": {
+        "threadID": "4224780477547480",
+        "messageID": "mid.$gAA8CalueQ9h9nsdZZF3bYIP0BVq8",
+        "senderID": "100003273191659",
+        "attachments": [],
+        "body": "cắt tóc đi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612449976676
+    }
+}

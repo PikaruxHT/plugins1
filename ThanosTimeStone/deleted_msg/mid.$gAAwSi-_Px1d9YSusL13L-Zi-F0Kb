@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9YSusL13L-Zi-F0Kb",
+    "senderID": "100054587095351",
+    "attachments": [],
+    "body": "36",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611416364079,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9YSpfh13L-UWh9bCK",
+        "senderID": "100054587095351",
+        "attachments": [],
+        "body": "Em đếm là 50",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611416278919
+    }
+}

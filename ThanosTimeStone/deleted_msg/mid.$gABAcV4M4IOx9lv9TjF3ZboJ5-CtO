@@ -1,0 +1,11 @@
+{
+    "type": "message",
+    "senderID": "100013854404111",
+    "body": "Error: Remote server returned corrupted data. Dumping...\n{\"error\":null,\"message\":\"HTTP 701\",\"response\":\"{}\"}",
+    "threadID": "4534761816596716",
+    "messageID": "mid.$gABAcV4M4IOx9lv9TjF3ZboJ5-CtO",
+    "attachments": [],
+    "mentions": {},
+    "timestamp": "1612319427468",
+    "isGroup": true
+}

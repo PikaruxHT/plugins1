@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2813352485385029",
+    "messageID": "mid.$gAAn-uquE80V9norBUl3bUVt9FKgr",
+    "senderID": "100027469184420",
+    "attachments": [],
+    "body": "mình k làm trùm 45 nữa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612446005586,
+    "messageReply": {
+        "threadID": "2813352485385029",
+        "messageID": "mid.$gAAn-uquE80V9nm-6Gl3bSpzXMX5M",
+        "senderID": "100027103893239",
+        "attachments": [],
+        "body": "Nhắm đấm dc nó để lên trùm ko =))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612444234266
+    }
+}

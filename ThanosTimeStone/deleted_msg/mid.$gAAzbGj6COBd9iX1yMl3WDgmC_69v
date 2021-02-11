@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3618605484881943",
+    "messageID": "mid.$gAAzbGj6COBd9iX1yMl3WDgmC_69v",
+    "senderID": "100018314292489",
+    "attachments": [],
+    "body": "/simsimi tao còn không biết tao là ai nè huống chi mày",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612092811826,
+    "messageReply": {
+        "threadID": "3618605484881943",
+        "messageID": "mid.$gAAzbGj6COBd9iXz4Jl3WDeseL_IW",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "dạy bạn là ai",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612092780582
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "100042967173826",
+    "messageID": "mid.$cAAAAAB7Cc4d9MuHU913AZzQoq_O9",
+    "senderID": "100042929551685",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng -help để hiển thị các lệnh có mặt.",
+    "isGroup": false,
+    "mentions": {},
+    "timestamp": 1610639772919,
+    "messageReply": {
+        "threadID": "100042967173826",
+        "messageID": "mid.$cAAAAAB7Cc4d9MuHJKF3AZyAVNglU",
+        "senderID": "100042967173826",
+        "attachments": [],
+        "body": "-.-",
+        "isGroup": false,
+        "mentions": {},
+        "timestamp": 1610639769896
+    }
+}

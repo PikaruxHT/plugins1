@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2929139163786855",
+    "messageID": "mid.$gAApoCVta7md9TkjAUV3HQNah8QcR",
+    "senderID": "100061896114626",
+    "attachments": [],
+    "body": "Bạn đã sử dụng hết ! hentai. Nâng cấp lên Bậc NSFW cao hơn hoặc đợi đến ngày mai.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611099502673,
+    "messageReply": {
+        "threadID": "2929139163786855",
+        "messageID": "mid.$gAApoCVta7md9Tki-3l3HQN0OZHS2",
+        "senderID": "100042929551685",
+        "attachments": [],
+        "body": "!hentai",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611099502302
+    }
+}

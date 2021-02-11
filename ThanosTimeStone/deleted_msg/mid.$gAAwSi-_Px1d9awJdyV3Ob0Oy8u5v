@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9awJdyV3Ob0Oy8u5v",
+    "senderID": "100041886817074",
+    "attachments": [],
+    "body": "Fim dì dọ?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611581429193,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9awHfT13ObyWICsSA",
+        "senderID": "100054587095351",
+        "attachments": [],
+        "body": "/count",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611581396815
+    }
+}

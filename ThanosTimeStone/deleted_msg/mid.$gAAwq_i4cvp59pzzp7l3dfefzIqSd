@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3424970904223390",
+    "messageID": "mid.$gAAwq_i4cvp59pzzp7l3dfefzIqSd",
+    "senderID": "100055497105654",
+    "attachments": [],
+    "body": "T full up đã tẻ",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612591899118,
+    "messageReply": {
+        "threadID": "3424970904223390",
+        "messageID": "mid.$gAAwq_i4cvp59pzpzHV3dfUgBAFXf",
+        "senderID": "100024586622591",
+        "attachments": [],
+        "body": "EZ MAP VILLAGE LOL",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612591737629
+    }
+}

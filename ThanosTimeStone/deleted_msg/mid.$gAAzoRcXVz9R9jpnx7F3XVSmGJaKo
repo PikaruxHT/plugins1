@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3633086090039252",
+    "messageID": "mid.$gAAzoRcXVz9R9jpnx7F3XVSmGJaKo",
+    "senderID": "100051031849791",
+    "attachments": [],
+    "body": "Đây là chỗ nói ra mấy câu này à",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612178565612,
+    "messageReply": {
+        "threadID": "3633086090039252",
+        "messageID": "mid.$gAAzoRcXVz9R9jpmXD13XVRONlshN",
+        "senderID": "100005841911518",
+        "attachments": [],
+        "body": "Chỉ là a k còn là chủ clan nữa. Làm thành viên thôi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612178542351
+    }
+}

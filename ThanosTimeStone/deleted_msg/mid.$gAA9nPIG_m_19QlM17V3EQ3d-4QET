@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100061896114626",
+    "body": "Nguyễn Kiệt, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 3!",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19QlM17V3EQ3d-4QET",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "164499425112655",
+            "filename": "gif-164499425112655",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "name": "gif-164499425112655",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=6db3b5dfd1302b53dbdc7abcf4d2757c&oe=6005BEE7"
+        }
+    ],
+    "mentions": {
+        "100014470712725": "Nguyễn Kiệt"
+    },
+    "timestamp": "1610898861549",
+    "isGroup": true
+}

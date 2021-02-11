@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3561323453995764",
+    "messageID": "mid.$gAAynATtn2vR9dRmol13Q9Rf7t9rE",
+    "senderID": "100041219644347",
+    "attachments": [],
+    "body": "Con bot VIP thật",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611750727831,
+    "messageReply": {
+        "threadID": "3561323453995764",
+        "messageID": "mid.$gAAynATtn2vR9dRl_TV3Q9Q2Ow1Jo",
+        "senderID": "100014258652230",
+        "attachments": [],
+        "body": "vip con bot kk",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611750717261
+    }
+}

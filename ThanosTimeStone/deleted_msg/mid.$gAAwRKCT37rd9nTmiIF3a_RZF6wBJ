@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3396563837120183",
+    "messageID": "mid.$gAAwRKCT37rd9nTmiIF3a_RZF6wBJ",
+    "senderID": "100006644740145",
+    "attachments": [],
+    "body": "Đây là pin dự phòng",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612423911968,
+    "messageReply": {
+        "threadID": "3396563837120183",
+        "messageID": "mid.$gAAwRKCT37rd9nSo78l3a-TzRTK_k",
+        "senderID": "100004888656315",
+        "attachments": [],
+        "body": "Đây là ip 12 ak",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612422902770
+    }
+}

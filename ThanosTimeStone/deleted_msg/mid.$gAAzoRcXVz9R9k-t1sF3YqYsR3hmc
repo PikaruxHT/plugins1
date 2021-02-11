@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3633086090039252",
+    "messageID": "mid.$gAAzoRcXVz9R9k-t1sF3YqYsR3hmc",
+    "senderID": "100005841911518",
+    "attachments": [],
+    "body": "Vậy e sẽ để về r lừa cho bả ý chửa",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612267793840,
+    "messageReply": {
+        "threadID": "3633086090039252",
+        "messageID": "mid.$gAAzoRcXVz9R9k-ryzl3YqWrpo6m5",
+        "senderID": "100039179059966",
+        "attachments": [],
+        "body": "Đúng rồi e . Còn nc đc là còn có cơ hội",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612267760334
+    }
+}

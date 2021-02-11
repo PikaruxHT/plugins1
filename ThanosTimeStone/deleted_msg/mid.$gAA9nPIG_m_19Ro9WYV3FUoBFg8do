@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4335634223176701",
+    "messageID": "mid.$gAA9nPIG_m_19Ro9WYV3FUoBFg8do",
+    "senderID": "100061896114626",
+    "attachments": [],
+    "body": "Sai lệnh. Sử dụng -help để hiển thị các lệnh có mặt.\n\nCó phải bạn muốn nhập lệnh `-toggleeveryone`?",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1610969910881,
+    "messageReply": {
+        "threadID": "4335634223176701",
+        "messageID": "mid.$gAA9nPIG_m_19Ro9Tb13FUoF9O15e",
+        "senderID": "100042929551685",
+        "attachments": [],
+        "body": "-leverup off",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1610969910127
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100061115077820",
+    "body": "https://vi.aliexpress.com/i/33046129545.html",
+    "threadID": "3768174796537634",
+    "messageID": "mid.$gAA1jIpAy_yJ9ilFvuF3WQwTbSyLT",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA1jIpAy_yJ9ilFvuF3WQwTbSyLT",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvi.aliexpress.com%2Fi%2F33046129545.html&h=AT1iinIO55NYFY2exogvLBCxJTNo_E1hjMe0NJ-laP0-k8dS38G4raG-qvGrHxIzmkbCkzeRTirqh4gCIaX8bdDWuGNXhOHuU7wYnAv7ABS24tTBJ3erJuPFVVYJdAkj8JJyCP8LfH8TM40&s=1",
+            "title": "Cuộc Tấn Công Của Các Titan Quần Áo Anime Shingeki No Kyojin Áo Xanh Mũi Tấn Công Titan Áo Khoác Hoodie Nỉ SoYoung đồ Chơi Cosplay|Trang Phục Anime| - AliExpress",
+            "description": "Cuộc Tấn Công Của Các Titan Quần Áo Anime Shingeki No Kyojin Áo Xanh Mũi Tấn Công Titan Áo Khoác Hoodie Nỉ SoYoung đồ Chơi Cosplay,Mua từ người bán ở Trung Quốc và trên toàn thế giới. Tận hưởng gửi hàng miễn phí, khuyến mãi trong thời gian gi....",
+            "source": "vi.aliexpress.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQHA8A0-_zptYg3C&w=800&h=800&url=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FHTB1U9dNeaWs3KVjSZFxq6yWUXXaB%2FCu-c-T-n-C-ng-C-a-C-c-Titan-Qu-n-o-Anime-Shingeki.jpg_q50.jpg&_nc_cb=1&_nc_hash=AQERgHxlAbGxA7rp",
+            "width": 800,
+            "height": 800,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "800",
+                "height": "800"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvi.aliexpress.com%2Fi%2F33046129545.html&h=AT1iinIO55NYFY2exogvLBCxJTNo_E1hjMe0NJ-laP0-k8dS38G4raG-qvGrHxIzmkbCkzeRTirqh4gCIaX8bdDWuGNXhOHuU7wYnAv7ABS24tTBJ3erJuPFVVYJdAkj8JJyCP8LfH8TM40&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612106704824",
+    "isGroup": true
+}

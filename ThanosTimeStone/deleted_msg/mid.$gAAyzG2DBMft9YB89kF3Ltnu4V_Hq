@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100042929551685",
+    "body": "https://github.com/catalizcs/mirai",
+    "threadID": "3574629889290747",
+    "messageID": "mid.$gAAyzG2DBMft9YB89kF3Ltnu4V_Hq",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAyzG2DBMft9YB89kF3Ltnu4V_Hq",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcatalizcs%2Fmirai&h=AT3XN5RUqVAh4hlsv5B_pT7hmRQurBj8eFToYB5cYrMvTBSzhoRhMVCorhor3TkKoAacBn6ZmS3yfuZ1OrBTJ9Agu5Bq6KfSFNLk99CYDnC_JyVwJfEov8hAnDMK5u-w2AYnVtdaijwQbKo&s=1",
+            "title": "catalizcs/mirai",
+            "description": "Source code này có thể biến tài khoản facebook của bạn trở thành một con bot thú vị ;) - catalizcs/mirai",
+            "source": "github.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?w=960&h=540&url=https%3A%2F%2Frepository-images.githubusercontent.com%2F249038124%2F7f08b100-d5be-11ea-963b-86db6f68b279&_nc_cb=1&_nc_hash=AQGQ2P1DYcKEpaNy",
+            "width": 960,
+            "height": 540,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "1920",
+                "height": "1080"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fcatalizcs%2Fmirai&h=AT3XN5RUqVAh4hlsv5B_pT7hmRQurBj8eFToYB5cYrMvTBSzhoRhMVCorhor3TkKoAacBn6ZmS3yfuZ1OrBTJ9Agu5Bq6KfSFNLk99CYDnC_JyVwJfEov8hAnDMK5u-w2AYnVtdaijwQbKo&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611398772112",
+    "isGroup": true
+}

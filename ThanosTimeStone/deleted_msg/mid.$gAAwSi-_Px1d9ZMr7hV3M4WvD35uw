@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZMr7hV3M4WvD35uw",
+    "senderID": "100038098600890",
+    "attachments": [],
+    "body": "Em người nhật mà",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611477136261,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9ZMiy2V3M4NpPPe6A",
+        "senderID": "100026147344207",
+        "attachments": [],
+        "body": "thế em biết nói tiếng Lào khônh",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611476986585
+    }
+}

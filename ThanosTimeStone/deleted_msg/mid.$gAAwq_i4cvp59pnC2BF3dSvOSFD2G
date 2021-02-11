@@ -1,0 +1,44 @@
+{
+    "type": "message",
+    "senderID": "100039605657912",
+    "body": "garp cân ba thg loz https://www.facebook.com/loc.lin.54",
+    "threadID": "3424970904223390",
+    "messageID": "mid.$gAAwq_i4cvp59pnC2BF3dSvOSFD2G",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAwq_i4cvp59pnC2BF3dSvOSFD2G",
+            "url": "https://www.facebook.com/loc.lin.54",
+            "title": "Lộc Lìn",
+            "description": null,
+            "source": null,
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/144922549_122400729758081_1781577250723053639_n.jpg?_nc_cat=103&ccb=2&_nc_sid=dbb9e7&_nc_ohc=syPX9LvP9XkAX_F9NMO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f4bafca77ea39614f63e51db53846f22&oe=60435814",
+            "width": 720,
+            "height": 720,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": "https://www.facebook.com/loc.lin.54",
+            "target": {
+                "__typename": "User",
+                "id": "100059644630006",
+                "name": "Lộc Lìn",
+                "profile_picture": {
+                    "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/144922549_122400729758081_1781577250723053639_n.jpg?_nc_cat=103&ccb=2&_nc_sid=7206a8&_nc_ohc=syPX9LvP9XkAX_F9NMO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=3bb1a0a3a31eb5e16874e73ee22b6051&oe=6042E14B"
+                },
+                "cover_photo": null,
+                "work_info": null,
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+            },
+            "styleList": [
+                "avatar",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612578516484",
+    "isGroup": true
+}

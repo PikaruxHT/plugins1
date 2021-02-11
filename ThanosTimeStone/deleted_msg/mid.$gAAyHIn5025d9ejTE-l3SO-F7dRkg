@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3526281940753303",
+    "messageID": "mid.$gAAyHIn5025d9ejTE-l3SO-F7dRkg",
+    "senderID": "100059999122223",
+    "attachments": [],
+    "body": "/simsimi úi iu nhau không😂",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611836390650,
+    "messageReply": {
+        "threadID": "3526281940753303",
+        "messageID": "mid.$gAAyHIn5025d9ejQ99V3SO7GFXCUA",
+        "senderID": "100062003973668",
+        "attachments": [],
+        "body": "tôi sẽ là người yêu bạn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611836356085
+    }
+}

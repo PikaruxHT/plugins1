@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100061896114626",
+    "body": "Nguyễn Văn Bằng, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 8!",
+    "threadID": "3574629889290747",
+    "messageID": "mid.$gAAyzG2DBMft9UVPKyV3IA5T5lfqB",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "875040626604919",
+            "filename": "gif-875040626604919",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "name": "gif-875040626604919",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=9ab5473f9b8dad8ddf251f7a3e9fc76b&oe=6009B367"
+        }
+    ],
+    "mentions": {
+        "100008628047634": "Nguyễn Văn Bằng"
+    },
+    "timestamp": "1611150557897",
+    "isGroup": true
+}

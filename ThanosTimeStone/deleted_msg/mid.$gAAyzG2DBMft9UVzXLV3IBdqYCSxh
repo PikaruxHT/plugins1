@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3574629889290747",
+    "messageID": "mid.$gAAyzG2DBMft9UVzXLV3IBdqYCSxh",
+    "senderID": "100061896114626",
+    "attachments": [],
+    "body": "Hiện tại có 80 các lệnh có thể được sử dụng trên bot này\n\n===== System =====\nreport, request, levelup, randomcolor, rainbow, rank, uptime, uid, afk\n\n===== General =====\nhelp, anime, meme, gif, hug, kiss, slap, short, short del, short all, sleep, wake, prefix, rname, sim on/off, sim, mit, penis, reminder, poll, ga, weather, say, covid-19, choose, waifu, roll, echo, trans, gỡ, wiki, ping\n\n===== Cipher =====\nmorse, caesar, vigenere, rot47\n\n===== Media =====\naudio, video, meow, sauce, change-mind, buttons, new-pwd\n\n===== Space =====\nearth, iss, neo, spacex\n\n===== Game =====\nosu!\n\n===== Study =====\nmath, chemeb, domath\n\n===== Nsfw =====\nnhentai, hentaivn, porn, hentai, mynsfw, buynsfw\n\n===== Economy =====\ncoinflip, money, daily, work, roul, sl, pay, steal, fishing, fishing bag, fishing sell, fishing list, fishing steal, fishing shop",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611151150893,
+    "messageReply": {
+        "threadID": "3574629889290747",
+        "messageID": "mid.$gAAyzG2DBMft9UVzVT13IBeIlQAVP",
+        "senderID": "100042929551685",
+        "attachments": [],
+        "body": "!help",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611151150415
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100047753267118",
+    "body": "https://vt.tiktok.com/ZSoSHxnL/",
+    "threadID": "3660402770701973",
+    "messageID": "mid.$gAA0BHe7h7pV9o9KBGl3co01_i_xv",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAA0BHe7h7pV9o9KBGl3co01_i_xv",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSoSHxnL%2F&h=AT0Sn2GTEByD6JktkkxyuyZ2y-izZIebu7FGiigwpcJLV-Uq83OEaSFoDZr6vo320UBCEDlz3RQW52tRGMpJ9KZp6Ev6rptUukCftXFsN0xF43VCGm3n0OlMKdayLg5pbFSZ9RIZ_2nIwIw&s=1",
+            "title": "♨Mai Hyy♨ trên TikTok",
+            "description": "Trầmk cảmk 😌😣 #xuhuong #trend #tiktok",
+            "source": "t.tiktok.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQHyI5UiQ8wSslkL&w=540&h=960&url=https%3A%2F%2Fp16-sign-sg.tiktokcdn.com%2Ftos-alisg-p-0037%2F87c2ff81351c40b09df07a3d72245305_1611242832%7Etplv-tiktok-play2.jpeg%3Fx-expires%3D1612555200%26x-signature%3DuUZau0HQ3ijGglznWVEopjxW5jo%253D&_nc_cb=1&_nc_hash=AQH1u24QU4_qh2Dn",
+            "width": 540,
+            "height": 960,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "540",
+                "height": "960"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSoSHxnL%2F&h=AT0Sn2GTEByD6JktkkxyuyZ2y-izZIebu7FGiigwpcJLV-Uq83OEaSFoDZr6vo320UBCEDlz3RQW52tRGMpJ9KZp6Ev6rptUukCftXFsN0xF43VCGm3n0OlMKdayLg5pbFSZ9RIZ_2nIwIw&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612534593818",
+    "isGroup": true
+}

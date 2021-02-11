@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100052108844679",
+    "body": "https://web.roblox.com/games/6349143402/Running-simulator",
+    "threadID": "3497140510383110",
+    "messageID": "mid.$gAAxsoXnZ3AZ9pANXeV3cr4A4IU7U",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAxsoXnZ3AZ9pANXeV3cr4A4IU7U",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fweb.roblox.com%2Fgames%2F6349143402%2FRunning-simulator&h=AT2hafQ9a9S6l3_bX2l6kDfqMKEEIm_pbNp2XMiRYskk1G1DcOWaXJrrQ-w4CjYRrPwx6tAc0Kn6ZVhsPMN_WdCFVvdYEoHtZLg-A02irQd_thpP3oxA67kbv8h_pOH_vO4WqfzILDER0fo&s=1",
+            "title": "Running simulator",
+            "description": "Check out Running simulator. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. This game made by vietnam",
+            "source": "roblox.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQEhNTQFdlLOMvUC&w=500&h=280&url=https%3A%2F%2Ft5.rbxcdn.com%2F270ee84cb98c3fdeebc940ec63441160&_nc_cb=1&_nc_hash=AQEw_eW79eHdcB_i",
+            "width": 500,
+            "height": 280,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "500",
+                "height": "280"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fweb.roblox.com%2Fgames%2F6349143402%2FRunning-simulator&h=AT2hafQ9a9S6l3_bX2l6kDfqMKEEIm_pbNp2XMiRYskk1G1DcOWaXJrrQ-w4CjYRrPwx6tAc0Kn6ZVhsPMN_WdCFVvdYEoHtZLg-A02irQd_thpP3oxA67kbv8h_pOH_vO4WqfzILDER0fo&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612537794425",
+    "isGroup": true
+}

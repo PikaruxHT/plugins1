@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZS8jpF3M-nWxnTh8",
+    "senderID": "100016636994686",
+    "attachments": [],
+    "body": "Có ku :<",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611483700132,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9ZS64q13M-loXbn1m",
+        "senderID": "100050627959121",
+        "attachments": [],
+        "body": "Mày có tâm.hồn hk",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611483672747
+    }
+}

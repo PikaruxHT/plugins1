@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3965004473516344",
+    "messageID": "mid.$gAA4WJostQTh9pyJXOF3dd0EI8Rno",
+    "senderID": "100049236320728",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "256586742656722",
+            "filename": "image-256586742656722",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/145551344_256586745990055_661565881572748470_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=co3tUkXOdDsAX8SDOkN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=748f9799709cd970bffc5b2a945b9724&oe=60444835",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/145551344_256586745990055_661565881572748470_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=co3tUkXOdDsAX8SDOkN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=34f13f867260946f4bf4b13f98a0cad1&oe=60428895",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145551344_256586745990055_661565881572748470_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=co3tUkXOdDsAX8SDOkN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=47acd8c8d8f898bd00fe51a9ff9ccdde&oe=6044358C",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 854,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145551344_256586745990055_661565881572748470_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=co3tUkXOdDsAX8SDOkN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=47acd8c8d8f898bd00fe51a9ff9ccdde&oe=6044358C",
+            "width": 540,
+            "height": 961,
+            "name": "image-256586742656722"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612590157624,
+    "messageReply": {
+        "threadID": "3965004473516344",
+        "messageID": "mid.$gAA4WJostQTh9pyBhol3ddsNL06FX",
+        "senderID": "100048802530382",
+        "attachments": [],
+        "body": "Thấy bảo là dùng 10 cái app luôn",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612590029218
+    }
+}

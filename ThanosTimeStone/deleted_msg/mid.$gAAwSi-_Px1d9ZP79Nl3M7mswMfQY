@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZP79Nl3M7mswMfQY",
+    "senderID": "100054587095351",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "266484965104076",
+            "filename": "image-266484965104076",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/141542923_266484968437409_2535062206568467241_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=sG_ZSjpUnEUAX89J9Up&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=e610d5f531387e714cbb3a20eaf8cf8e&oe=6033E1DB",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/141542923_266484968437409_2535062206568467241_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=sG_ZSjpUnEUAX89J9Up&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=ea5f0078a7f5da24338980cc778f94fb&oe=6033CD8D",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/141542923_266484968437409_2535062206568467241_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=sG_ZSjpUnEUAX89J9Up&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a155a1e3e5846f62459b8b14371aef06&oe=6032A78C",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 854,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/141542923_266484968437409_2535062206568467241_n.jpg?_nc_cat=103&ccb=2&_nc_sid=ae9488&_nc_ohc=sG_ZSjpUnEUAX89J9Up&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a155a1e3e5846f62459b8b14371aef06&oe=6032A78C",
+            "width": 540,
+            "height": 961,
+            "name": "image-266484965104076"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611480544566,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9ZP01pV3M7fgRG_de",
+        "senderID": "100052863307842",
+        "attachments": [],
+        "body": "Em xin ảnh m n trong gr để em làm đủ ikk",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611480427941
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "2293093754147600",
+    "messageID": "mid.$gAAgljn6nExB9p5AKwV3dkq554bqH",
+    "senderID": "100022890691016",
+    "attachments": [],
+    "body": "Mã mẹ mày",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612597347009,
+    "messageReply": {
+        "threadID": "2293093754147600",
+        "messageID": "mid.$gAAgljn6nExB9p4_kvl3dkqa2xf7r",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "@Trí đã xoá 1 tin nhắn. \r\nNội dung: Địt con lồn mẹ mày",
+        "isGroup": true,
+        "mentions": {
+            "100022890691016": "Trí "
+        },
+        "timestamp": 1612597337278
+    }
+}

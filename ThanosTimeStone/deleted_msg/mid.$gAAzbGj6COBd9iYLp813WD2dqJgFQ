@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3618605484881943",
+    "messageID": "mid.$gAAzbGj6COBd9iYLp813WD2dqJgFQ",
+    "senderID": "100018314292489",
+    "attachments": [],
+    "body": "/simsimi trúc cc tao tên lâm",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612093170163,
+    "messageReply": {
+        "threadID": "3618605484881943",
+        "messageID": "mid.$gAAzbGj6COBd9iYJNM13WD0B-ce05",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "Nguyễn Thị Thanh Trúc học 10a5 trường thpt Vĩnh Cửu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612093130035
+    }
+}

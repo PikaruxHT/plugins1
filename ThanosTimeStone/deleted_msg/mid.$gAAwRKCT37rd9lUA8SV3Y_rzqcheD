@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3396563837120183",
+    "messageID": "mid.$gAAwRKCT37rd9lUA8SV3Y_rzqcheD",
+    "senderID": "100004888656315",
+    "attachments": [],
+    "body": "Có giúp lại ko",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612290126921,
+    "messageReply": {
+        "threadID": "3396563837120183",
+        "messageID": "mid.$gAAwRKCT37rd9lQfSAl3Y8KE89n5G",
+        "senderID": "100035099507088",
+        "attachments": [
+            {
+                "type": "photo",
+                "ID": "450429536094497",
+                "filename": "image-450429536094497",
+                "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s64x64/145264208_244590257116452_8597403677308154621_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=_GJTPzZ15PgAX_zsnpv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=6caa0b5290e31780bdd421ce9ded23f5&oe=603EFE80",
+                "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/145264208_244590257116452_8597403677308154621_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=_GJTPzZ15PgAX_zsnpv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=c1d6cccfa4d7b79195eecffd57fde1c1&oe=603D4C47",
+                "previewWidth": 560,
+                "previewHeight": 280,
+                "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145264208_244590257116452_8597403677308154621_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=_GJTPzZ15PgAX_zsnpv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=78e27367219c17fa8c3e7f380a866f57&oe=603EE242",
+                "largePreviewWidth": 960,
+                "largePreviewHeight": 480,
+                "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/145264208_244590257116452_8597403677308154621_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=_GJTPzZ15PgAX_zsnpv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=78e27367219c17fa8c3e7f380a866f57&oe=603EE242",
+                "width": 1440,
+                "height": 720,
+                "name": "image-450429536094497"
+            }
+        ],
+        "body": "",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612286429698
+    }
+}

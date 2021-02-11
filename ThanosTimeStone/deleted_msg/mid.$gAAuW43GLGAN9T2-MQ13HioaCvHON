@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100061896114626",
+    "body": "Minh Triết Nguyễn, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 4!",
+    "threadID": "3262128350500867",
+    "messageID": "mid.$gAAuW43GLGAN9T2-MQ13HioaCvHON",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "317851306310065",
+            "filename": "gif-317851306310065",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "name": "gif-317851306310065",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=Kr7OY95oHs0AX9B70XL&_nc_ht=cdn.fbsbx.com&oh=5ad0afffb854e374477cc57adf706719&oe=60090AA7"
+        }
+    ],
+    "mentions": {
+        "100003902722468": "Minh Triết Nguyễn"
+    },
+    "timestamp": "1611118822467",
+    "isGroup": true
+}

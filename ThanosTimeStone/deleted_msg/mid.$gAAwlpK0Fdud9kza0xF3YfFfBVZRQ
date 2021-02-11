@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100050450568515",
+    "body": "https://web.roblox.com/games/2753915549/UPDATE-13-Blox-Fruits?privateServerLinkCode=3DsFfOmaSWkLXBXk_2Y_TotSSYjfj3lU&fbclid=IwAR178o5RP-S6VXARDjLQzVrOFRZttL45YFa71rxNQdhgsugqjwNFxbAdkbE",
+    "threadID": "3419088928208615",
+    "messageID": "mid.$gAAwlpK0Fdud9kza0xF3YfFfBVZRQ",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAwlpK0Fdud9kza0xF3YfFfBVZRQ",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fweb.roblox.com%2Fgames%2F2753915549%2FUPDATE-13-Blox-Fruits%3FprivateServerLinkCode%3D3DsFfOmaSWkLXBXk_2Y_TotSSYjfj3lU&h=AT1V_N3KBBfS2K3wtZNHiZ193WP6gHWCi97pcehdudtsaE7Bq99n_IYcfZ6YmQY4iMCMWEhFS97eyy8xaQhv_AlHzpz_G23DLr6JKA4Ltz2SaLhkvzcdkTh5r37N3c8dL3cfxP7KcQY0fP8&s=1",
+            "title": "[UPDATE 13] Blox Fruits",
+            "description": "Check out [UPDATE 13] Blox Fruits. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. ❄️UPDATE 13 OUT NOW!🎄 Dragon Fruit + Awakening + Island + LIMITED TIME CHRISTMAS EVENT. Welcome to Blox Fruits! Become a master swordsman or a powerful blox fruit user as ...",
+            "source": "roblox.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQEVjv3ZJVm9HNOK&w=500&h=280&url=https%3A%2F%2Ft3.rbxcdn.com%2F0fd9051758971ee49f2dd9dff03b1d3e&_nc_cb=1&_nc_hash=AQHT2s3tr9vrWp1l",
+            "width": 500,
+            "height": 280,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "500",
+                "height": "280"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fweb.roblox.com%2Fgames%2F2753915549%2FUPDATE-13-Blox-Fruits%3FprivateServerLinkCode%3D3DsFfOmaSWkLXBXk_2Y_TotSSYjfj3lU&h=AT1V_N3KBBfS2K3wtZNHiZ193WP6gHWCi97pcehdudtsaE7Bq99n_IYcfZ6YmQY4iMCMWEhFS97eyy8xaQhv_AlHzpz_G23DLr6JKA4Ltz2SaLhkvzcdkTh5r37N3c8dL3cfxP7KcQY0fP8&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612255947972",
+    "isGroup": true
+}

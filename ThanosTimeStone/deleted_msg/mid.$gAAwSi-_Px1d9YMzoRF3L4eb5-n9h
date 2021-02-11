@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9YMzoRF3L4eb5-n9h",
+    "senderID": "100039752902076",
+    "attachments": [],
+    "body": "Đưa e qtv em kích hoạt xong e gỡ sau",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611410153540,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9YMyOvV3L4dE1k1ng",
+        "senderID": "100054552038238",
+        "attachments": [],
+        "body": "/togglecount",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611410130621
+    }
+}

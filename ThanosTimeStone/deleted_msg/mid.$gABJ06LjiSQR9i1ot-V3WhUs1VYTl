@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "5195092463864068",
+    "messageID": "mid.$gABJ06LjiSQR9i1ot-V3WhUs1VYTl",
+    "senderID": "100051264139075",
+    "attachments": [],
+    "body": "thek đi ngủ ggi",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612124055033,
+    "messageReply": {
+        "threadID": "5195092463864068",
+        "messageID": "mid.$gABJ06LjiSQR9i1nw9F3WhSnUL_my",
+        "senderID": "100049910538663",
+        "attachments": [],
+        "body": "Tức",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612124039412
+    }
+}

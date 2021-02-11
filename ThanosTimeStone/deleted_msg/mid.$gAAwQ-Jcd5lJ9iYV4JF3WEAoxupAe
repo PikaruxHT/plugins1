@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3396359593780818",
+    "messageID": "mid.$gAAwQ-Jcd5lJ9iYV4JF3WEAoxupAe",
+    "senderID": "100034312234088",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "329058355056364",
+            "filename": "image-329058355056364",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/144663988_329058358389697_2751677718555368469_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=v4iWVoPHwhgAX-xoS_I&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=28&oh=c93d79bc9d7d37648e863c750ce2bfc1&oe=603ACBEA",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/144663988_329058358389697_2751677718555368469_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=v4iWVoPHwhgAX-xoS_I&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=2332dbce7ebebee3ff9ea5a72c529d21&oe=603D9940",
+            "previewWidth": 300,
+            "previewHeight": 280,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/144663988_329058358389697_2751677718555368469_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=v4iWVoPHwhgAX-xoS_I&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=fe03c86a7ce4c23d3606dfcf767e46c5&oe=603A59B9",
+            "largePreviewWidth": 514,
+            "largePreviewHeight": 480,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/144663988_329058358389697_2751677718555368469_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=v4iWVoPHwhgAX-xoS_I&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=fe03c86a7ce4c23d3606dfcf767e46c5&oe=603A59B9",
+            "width": 750,
+            "height": 701,
+            "name": "image-329058355056364"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612093337636,
+    "messageReply": {
+        "threadID": "3396359593780818",
+        "messageID": "mid.$gAAwQ-Jcd5lJ9iYTrNF3WD-ejIzvf",
+        "senderID": "100057076152092",
+        "attachments": [],
+        "body": "Đan đâu mlong đòi đấm t kìa",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612093301556
+    }
+}

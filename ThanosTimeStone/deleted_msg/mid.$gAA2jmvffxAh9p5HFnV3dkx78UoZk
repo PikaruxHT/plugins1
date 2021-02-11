@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3839060676166664",
+    "messageID": "mid.$gAA2jmvffxAh9p5HFnV3dkx78UoZk",
+    "senderID": "100053573130494",
+    "attachments": [],
+    "body": "Lôz mm vietanh",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612597460381,
+    "messageReply": {
+        "threadID": "3839060676166664",
+        "messageID": "mid.$gAA2jmvffxAh9p44PJl3dkjFaIM3_",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "@Dang Hoang Viet Anh đã xoá 1 tin nhắn. \r\nNội dung: Ditmebinh",
+        "isGroup": true,
+        "mentions": {
+            "100008349095192": "Dang Hoang Viet Anh "
+        },
+        "timestamp": 1612597217062
+    }
+}

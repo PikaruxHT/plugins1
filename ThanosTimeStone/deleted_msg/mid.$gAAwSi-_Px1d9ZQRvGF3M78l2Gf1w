@@ -1,0 +1,35 @@
+{
+    "type": "message",
+    "senderID": "100043363391502",
+    "body": "https://www.facebook.com/groups/tagff/permalink/719888192062149/?app=fbl",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZQRvGF3M78l2Gf1w",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAwSi-_Px1d9ZQRvGF3M78l2Gf1w",
+            "url": null,
+            "title": "𝑻𝒓𝒂𝒑 𝒃𝒐𝒚 𝒂𝒏𝒅 𝒈𝒊𝒓𝒍 ttv sll do box mới lập \nĐiều kiện : ko leak , ko fake , chăm tt , out có mồm . Ưu tiên trai nhé 🥰\n#ff #boxchat",
+            "description": "Facebook",
+            "source": "Facebook",
+            "image": "https://scontent.xx.fbcdn.net/v/t1.0-0/p261x260/140922371_411215020333941_7050912040886252194_n.jpg?_nc_cat=102&ccb=2&_nc_sid=07e735&_nc_ohc=tLiKSEx0ArsAX89pV_0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=a37a46bba1894e1968e14e675c37c86f&oe=60316F34",
+            "width": 261,
+            "height": 394,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": "https://www.facebook.com/",
+            "subattachments": [],
+            "properties": {},
+            "facebookUrl": null,
+            "target": null,
+            "styleList": [
+                "messenger_generic_template",
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611480901400",
+    "isGroup": true
+}

@@ -1,0 +1,21 @@
+{
+    "type": "message",
+    "senderID": "100034071981670",
+    "body": "",
+    "threadID": "3609563745747475",
+    "messageID": "mid.$gAAzS4QzcAhN9cIrHhl3P0Vx9m1Vj",
+    "attachments": [
+        {
+            "type": "audio",
+            "filename": "Tệp ghi (2).m4a",
+            "ID": "AT2bz6Mm6xl_xqLPe8asM2MjinBWSc3w4L-REDipVb4jIwZVUFu9s1L29qjYp1XNryzHRV3i_0Tc8SDzr4e89SC61mvcIUSx00r8PkKBarMr2mjRiNT1yOjrTpQt2vUHDjM-_jS9VV5oQT91IDz8RVH0gMw",
+            "audioType": "FILE_ATTACHMENT",
+            "duration": 63360,
+            "url": "https://cdn.fbsbx.com/v/t59.3654-21/133529943_1117032715436120_7142146035933857278_n.m4a/T%E1%BB%87p-ghi-2.m4a?_nc_cat=108&ccb=2&_nc_sid=7272a8&_nc_ohc=ScAoKSjOVJAAX_Mhewn&_nc_oc=AQkf7LYwGUlafCS7EW4R_Bs03Dnapivivfnk1X4Vx2fW7hQ5NYW4JNxy7cZ9Wkz52n8&_nc_ht=cdn.fbsbx.com&oh=1c956ffd5f88741e6a85c93553f30a98&oe=6011EDEB&dl=1",
+            "isVoiceMail": false
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611674255238",
+    "isGroup": true
+}

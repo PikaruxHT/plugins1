@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "4160112977396580",
+    "messageID": "mid.$gAA7Hmcg-Q2R9dAsbUl3QsW-mZp2J",
+    "senderID": "100035914321757",
+    "attachments": [],
+    "body": "/simsimi chơi gay ko e",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611732996946,
+    "messageReply": {
+        "threadID": "4160112977396580",
+        "messageID": "mid.$gAA7Hmcg-Q2R9dAru2F3QsWEK_RJ0",
+        "senderID": "100062003973668",
+        "attachments": [],
+        "body": "ơi em nè",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611732985560
+    }
+}

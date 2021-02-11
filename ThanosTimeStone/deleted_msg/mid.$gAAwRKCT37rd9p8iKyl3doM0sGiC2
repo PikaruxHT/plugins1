@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100036442154861",
+    "body": "https://vt.tiktok.com/ZSoaRhaj/",
+    "threadID": "3396563837120183",
+    "messageID": "mid.$gAAwRKCT37rd9p8iKyl3doM0sGiC2",
+    "attachments": [
+        {
+            "type": "share",
+            "ID": "ee.mid.$gAAwRKCT37rd9p8iKyl3doM0sGiC2",
+            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSoaRhaj%2F&h=AT0dXjNRR4esdmxrlDzahtCyMW4GsJq6rMH2UlcOH90dbTlNiz9IfwMj7Jsh4HvUbl6oyQXg7lm9ME2WGodxgIXz3sEpSzznJKATLQu_yZdHgLxYtMOm69-qs6zV_D6_X6gR4Rbsuvzrk8s&s=1",
+            "title": "Hoàng Chí Hùng🇻🇳 trên TikTok",
+            "description": "tưởng máy bay sành sỏi thế nào , chưa được 2 tiếng đã dũ dượi#tik_tok #xuhuong #followers #tiktokvietnam #Giaitri #nguoivietnamodailoan",
+            "source": "t.tiktok.com",
+            "image": "https://external.xx.fbcdn.net/safe_image.php?d=AQFzKJQ_bRsmMicd&w=304&h=544&url=https%3A%2F%2Fp16-sign-sg.tiktokcdn.com%2Ftos-alisg-p-0037%2F21bebb23ff634d76aacce6e803f6806f_1612231477%7Etplv-tiktok-play2.jpeg%3Fx-expires%3D1612620000%26x-signature%3DCA3yxcM4FZL%252B3I7XgmlJAbTCQe8%253D&_nc_cb=1&_nc_hash=AQE9zb1Yn5BSnHVa",
+            "width": 304,
+            "height": 544,
+            "playable": false,
+            "duration": 0,
+            "playableUrl": null,
+            "subattachments": [],
+            "properties": {
+                "width": "304",
+                "height": "544"
+            },
+            "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fvt.tiktok.com%2FZSoaRhaj%2F&h=AT0dXjNRR4esdmxrlDzahtCyMW4GsJq6rMH2UlcOH90dbTlNiz9IfwMj7Jsh4HvUbl6oyQXg7lm9ME2WGodxgIXz3sEpSzznJKATLQu_yZdHgLxYtMOm69-qs6zV_D6_X6gR4Rbsuvzrk8s&s=1",
+            "target": {
+                "__typename": "ExternalUrl"
+            },
+            "styleList": [
+                "share",
+                "fallback"
+            ]
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612601049802",
+    "isGroup": true
+}

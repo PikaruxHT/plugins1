@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "2565687486866577",
+    "messageID": "mid.$gAAkdeqtCZJF9hW9crF3VCoUFLbDu",
+    "senderID": "100040067324871",
+    "attachments": [],
+    "body": "Hăm có các bộ 😢",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612024779948,
+    "messageReply": {
+        "threadID": "2565687486866577",
+        "messageID": "mid.$gAAkdeqtCZJF9hWvekl3VCaVl3nX3",
+        "senderID": "100051690882632",
+        "attachments": [],
+        "body": "Rank bk đi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612024551058
+    }
+}

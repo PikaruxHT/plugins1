@@ -1,0 +1,60 @@
+{
+    "type": "message_reply",
+    "threadID": "3909148909115312",
+    "messageID": "mid.$gAA3jWagaF7B9Il5JuF28Rk7UAJPi",
+    "senderID": "100060516450040",
+    "attachments": [],
+    "body": "Đã thêm user 100042929551685 vào nhóm này.",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1610362716600,
+    "messageReply": {
+        "threadID": "3909148909115312",
+        "messageID": "mid.$gAA3jWagaF7B9Il49CF28RkvVG7SY",
+        "senderID": "100060516450040",
+        "attachments": [
+            {
+                "type": "share",
+                "ID": "ee.mid.$gAA3jWagaF7B9Il49CF28RkvVG7SY",
+                "url": "https://www.facebook.com/ImHimm01",
+                "title": "Lê Hoài Linh",
+                "description": null,
+                "source": null,
+                "image": "https://scontent.xx.fbcdn.net/v/t1.0-1/p960x960/110749667_280947046679612_1428336266936205352_o.jpg?_nc_cat=111&ccb=2&_nc_sid=dbb9e7&_nc_ohc=Fcl7CAhMKSIAX_f4IsY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=857f59c960a976d7811122dc04981b7a&oe=6023675A",
+                "width": 960,
+                "height": 960,
+                "playable": false,
+                "duration": 0,
+                "playableUrl": null,
+                "subattachments": [],
+                "properties": {},
+                "facebookUrl": "https://www.facebook.com/ImHimm01",
+                "target": {
+                    "__typename": "User",
+                    "id": "100042929551685",
+                    "name": "Lê Hoài Linh",
+                    "profile_picture": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t1.0-1/cp0/p50x50/110749667_280947046679612_1428336266936205352_o.jpg?_nc_cat=111&ccb=2&_nc_sid=7206a8&_nc_ohc=Fcl7CAhMKSIAX_f4IsY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=27&oh=e435b65cd571c406ae14b093f8159096&oe=60215A7B"
+                    },
+                    "cover_photo": {
+                        "photo": {
+                            "image": {
+                                "uri": "https://scontent.xx.fbcdn.net/v/t1.0-9/p960x960/108999443_279054400202210_6544979174695168343_o.jpg?_nc_cat=108&ccb=2&_nc_sid=e3f864&_nc_ohc=5dT2T9cl8ZQAX9xQxNd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=67bdf3da2775f6ee1ac1a19df96f86ef&oe=6020EB61"
+                            }
+                        }
+                    },
+                    "work_info": null,
+                    "subscribe_status": "CAN_SUBSCRIBE"
+                },
+                "styleList": [
+                    "avatar",
+                    "fallback"
+                ]
+            }
+        ],
+        "body": "-adduser https://www.facebook.com/ImHimm01/",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1610362713352
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9kmGQWl3YRxHHQqLi",
+    "senderID": "100059917367201",
+    "attachments": [],
+    "body": "Con Bot làm việc ko hiệu quả nha",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612241979482,
+    "messageReply": {
+        "threadID": "3630471307047315",
+        "messageID": "mid.$gAAzl5PifsZN9kmEmr13YRvIOKjPf",
+        "senderID": "100062996420969",
+        "attachments": [],
+        "body": "@Cao Thanh Tường đã xoá 1 tin nhắn. \r\nNội dung: Ma t còn không sợ bằng m",
+        "isGroup": true,
+        "mentions": {
+            "100059917367201": "Cao Thanh Tường "
+        },
+        "timestamp": 1612241952431
+    }
+}

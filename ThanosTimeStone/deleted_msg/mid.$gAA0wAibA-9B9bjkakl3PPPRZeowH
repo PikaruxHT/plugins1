@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3711960495487952",
+    "messageID": "mid.$gAA0wAibA-9B9bjkakl3PPPRZeowH",
+    "senderID": "100013702666989",
+    "attachments": [],
+    "body": "Xinh hơn ny m :)",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611635348114,
+    "messageReply": {
+        "threadID": "3711960495487952",
+        "messageID": "mid.$gAA0wAibA-9B9bialzF3POFct_i8_",
+        "senderID": "100031363004115",
+        "attachments": [],
+        "body": "M có đập đi xây lại vẫn xấu kinh dị thôi :))",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611634138572
+    }
+}

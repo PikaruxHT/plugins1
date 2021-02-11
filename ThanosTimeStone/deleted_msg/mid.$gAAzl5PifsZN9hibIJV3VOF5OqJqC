@@ -1,0 +1,123 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9hibIJV3VOF5OqJqC",
+    "senderID": "100054796597807",
+    "attachments": [],
+    "body": "Tròn 2chục",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612036800549,
+    "delta": {
+        "deltaMessageReply": {
+            "message": {
+                "messageMetadata": {
+                    "threadKey": {
+                        "threadFbId": 3630471307047315
+                    },
+                    "messageId": "mid.$gAAzl5PifsZN9hibIJV3VOF5OqJqC",
+                    "offlineThreadingId": "6761372393264421506",
+                    "actorFbId": 100054796597807,
+                    "timestamp": 1612036800549,
+                    "tags": [
+                        "source:chat:orca",
+                        "app_id:256002347743983",
+                        "tq",
+                        "cg-enabled",
+                        "blindly_apply_message_folder",
+                        "inbox"
+                    ],
+                    "threadReadStateEffect": 2,
+                    "skipBumpThread": false,
+                    "unsendType": "deny_for_non_sender",
+                    "cid": {
+                        "conversationFbid": 3630471307047315
+                    },
+                    "folderId": {
+                        "systemFolderId": 0
+                    }
+                },
+                "body": "Tròn 2chục",
+                "attachments": [],
+                "data": {},
+                "irisSeqId": 26478,
+                "tqSeqId": 141074,
+                "messageReply": {
+                    "replyToMessageId": {
+                        "id": "mid.$gAAzl5PifsZN9hiYT113VOC-nh637"
+                    },
+                    "status": 0
+                },
+                "requestContext": {
+                    "apiArgs": "(8https://www.facebook.com/intern/agent/realtime_delivery/&????t8\r297.0.0.6.119\b\n$115d5ba9-7669-4381-ba2e-530d6657952e9\u001b\u0004?\u0005layer\u0003www\npush_phase\u0002C3\tbuenopathIXRealtimeDeliveryThriftServerController:sendRealtimeDeliveryRequest:/t_sm\u0007www_rev\n1003245651\u0018\u0011messenger_android\u0012\u0000"
+                },
+                "participants": [
+                    100051690882632,
+                    100040933543001,
+                    100054796597807,
+                    100051880606552,
+                    100051363725797,
+                    100035239502209,
+                    100006011736808,
+                    100058049073571,
+                    100057106883911,
+                    100048558272658,
+                    100026379011748,
+                    100036678559052,
+                    100046205656360,
+                    100040188966465,
+                    100050602839793,
+                    100014919848155,
+                    100017523701272,
+                    100022162671317,
+                    100040818480802,
+                    100047857749761,
+                    100026268287359,
+                    100061933652165,
+                    100005113295152,
+                    100055853357605,
+                    100054212611207,
+                    100042823861582,
+                    100047165827650,
+                    100024859335889,
+                    100052792994181,
+                    100030433275176,
+                    100050173777429,
+                    100033745540878,
+                    100041515990755,
+                    100040711956344,
+                    100035463257782,
+                    100038753584832,
+                    100040609885348,
+                    100011515722139,
+                    100061256150224,
+                    100051916216159,
+                    100052114686526,
+                    100051355114917,
+                    100014519921940,
+                    100018767492665,
+                    100010164459116,
+                    100011634360664,
+                    100041591657807,
+                    100037245083093,
+                    100060319585567,
+                    100052896465889,
+                    100013705986617,
+                    100056162462994,
+                    100055147500937,
+                    100054078362831,
+                    100046808933229,
+                    100038700397911,
+                    100034806185676,
+                    100010788523661,
+                    100059917367201,
+                    100035099507088,
+                    100062996420969,
+                    100034971191323
+                ],
+                "irisTags": []
+            },
+            "status": 1
+        }
+    }
+}

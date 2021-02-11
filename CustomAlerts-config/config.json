@@ -1,0 +1,6 @@
+{
+     "messages": {
+          "userJoin": "Xin chào :> {username}\nThành viên hiện tại: {membercount}",
+          "userLeave": "Tạm biệt :<\nThành viên còn lại: {membercount}"
+     }
+}

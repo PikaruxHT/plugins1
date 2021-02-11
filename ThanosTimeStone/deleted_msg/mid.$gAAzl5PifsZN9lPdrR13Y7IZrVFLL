@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9lPdrR13Y7IZrVFLL",
+    "senderID": "100054212611207",
+    "attachments": [],
+    "body": "Lưojn đi",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612285354823,
+    "messageReply": {
+        "threadID": "3630471307047315",
+        "messageID": "mid.$gAAzl5PifsZN9lPdMO13Y7H-1-als",
+        "senderID": "100054796597807",
+        "attachments": [],
+        "body": "T đi chs vs chj dâu",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612285346875
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "message",
+    "senderID": "100061896114626",
+    "body": "Lu Quang Dai, cấp độ anh hùng bàn phím của bạn đã đạt đến cấp độ 3!",
+    "threadID": "1884857371564483",
+    "messageID": "mid.$gAAayRI4VmcN9UgpQV13IMTVOZgXv",
+    "attachments": [
+        {
+            "type": "animated_image",
+            "ID": "739124997007974",
+            "filename": "gif-739124997007974",
+            "previewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "previewWidth": 457,
+            "previewHeight": 498,
+            "url": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "width": 457,
+            "height": 498,
+            "thumbnailUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "name": "gif-739124997007974",
+            "facebookUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "rawGifImage": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "animatedGifUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "animatedGifPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "animatedWebpUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27",
+            "animatedWebpPreviewUrl": "https://cdn.fbsbx.com/v/t59.2708-21/118711624_850445082028983_8588372703929833395_n.gif?_nc_cat=104&ccb=2&_nc_sid=041f46&_nc_ohc=bc9SPKQlqV8AX9eCIW6&_nc_ht=cdn.fbsbx.com&oh=4cb97568dbe8bbeaf330aa44f6049300&oe=600A5C27"
+        }
+    ],
+    "mentions": {
+        "100003839768971": "Lu Quang Dai"
+    },
+    "timestamp": "1611162519639",
+    "isGroup": true
+}

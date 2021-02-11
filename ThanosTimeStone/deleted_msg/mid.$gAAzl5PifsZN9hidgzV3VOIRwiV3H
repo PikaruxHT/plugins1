@@ -1,0 +1,21 @@
+{
+    "type": "message_reply",
+    "threadID": "3630471307047315",
+    "messageID": "mid.$gAAzl5PifsZN9hidgzV3VOIRwiV3H",
+    "senderID": "100054796597807",
+    "attachments": [],
+    "body": "Đợi đi tìm video cho",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1612036839629,
+    "messageReply": {
+        "threadID": "3630471307047315",
+        "messageID": "mid.$gAAzl5PifsZN9hicvp13VOHjgYT_M",
+        "senderID": "100054212611207",
+        "attachments": [],
+        "body": "DM a chụp coi",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1612036827047
+    }
+}

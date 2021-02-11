@@ -1,0 +1,38 @@
+{
+    "type": "message_reply",
+    "threadID": "3398091953653591",
+    "messageID": "mid.$gAAwSi-_Px1d9ZNauo13M5FbfbSd3",
+    "senderID": "100054552038238",
+    "attachments": [
+        {
+            "type": "photo",
+            "ID": "128240392406236",
+            "filename": "image-128240392406236",
+            "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/cp0/s50x50/141188649_128240399072902_4571470857042014136_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=jli2WvP121IAX_qrTac&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=e38e69622445df96f800ce91297797b6&oe=6033D324",
+            "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/141188649_128240399072902_4571470857042014136_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=jli2WvP121IAX_qrTac&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=f75dc1fa6e34e3443b5d900bab8a6ea2&oe=603490F6",
+            "previewWidth": 280,
+            "previewHeight": 498,
+            "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/141188649_128240399072902_4571470857042014136_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=jli2WvP121IAX_qrTac&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=813690fc335418ba98bc56056c9b14a5&oe=6032C5F3",
+            "largePreviewWidth": 480,
+            "largePreviewHeight": 853,
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-0/p480x480/141188649_128240399072902_4571470857042014136_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_ohc=jli2WvP121IAX_qrTac&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=813690fc335418ba98bc56056c9b14a5&oe=6032C5F3",
+            "width": 1080,
+            "height": 1920,
+            "name": "image-128240392406236"
+        }
+    ],
+    "body": "",
+    "isGroup": true,
+    "mentions": {},
+    "timestamp": 1611477903011,
+    "messageReply": {
+        "threadID": "3398091953653591",
+        "messageID": "mid.$gAAwSi-_Px1d9ZNRVjF3M48JFX5g-",
+        "senderID": "100038098600890",
+        "attachments": [],
+        "body": "Có 3gr",
+        "isGroup": true,
+        "mentions": {},
+        "timestamp": 1611477749132
+    }
+}

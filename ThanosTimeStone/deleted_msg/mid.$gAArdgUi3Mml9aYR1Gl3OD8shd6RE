@@ -1,0 +1,31 @@
+{
+    "type": "message",
+    "senderID": "100048035378416",
+    "body": "",
+    "threadID": "3058297107591785",
+    "messageID": "mid.$gAArdgUi3Mml9aYR1Gl3OD8shd6RE",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "1458993950799048",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/16685836_1458993954132381_7157059233479917568_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=wC3sKAlBKlcAX-Y5h0A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f77d82642b93d7b70cbe4149c0245cf2&oe=603319A7",
+            "packID": "1440530709312039",
+            "spriteUrl": null,
+            "spriteUrl2x": null,
+            "width": 240,
+            "height": 240,
+            "caption": "Laughing, cat laughing",
+            "description": "Laughing, cat laughing",
+            "frameCount": 1,
+            "frameRate": 83,
+            "framesPerRow": 1,
+            "framesPerCol": 1,
+            "stickerID": "1458993950799048",
+            "spriteURI": null,
+            "spriteURI2x": null
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1611556400410",
+    "isGroup": true
+}

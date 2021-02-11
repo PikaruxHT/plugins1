@@ -1,0 +1,39 @@
+{
+    "type": "message",
+    "senderID": "100034312234088",
+    "body": "",
+    "threadID": "3349837345120938",
+    "messageID": "mid.$gAAvmqMkC4qp9pCd6Ul3cuIxRCtlw",
+    "attachments": [
+        {
+            "type": "sticker",
+            "ID": "237319140421079",
+            "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36867259_237319150421078_5176744835150774272_n.png?_nc_cat=1&ccb=2&_nc_sid=ac3552&_nc_ohc=BZBDfuDx_dgAX9EiKGK&_nc_oc=AQlbSzkQzxaaSWAUYhd511brqJ3geEE7TQTwtZgpanaucC0F4bFUSxQw-UJ7Kgi9dYs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c036d63f0d0793614dd50890d666f505&oe=604171B2",
+            "packID": "237317020421291",
+            "spriteUrl": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=110&ccb=2&_nc_sid=0572db&_nc_ohc=mNcMQzuDzakAX8jLwyV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=027f57302e223c451f8d6e1ca148ad67&oe=6041B47F"
+            },
+            "spriteUrl2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=110&ccb=2&_nc_sid=0572db&_nc_ohc=mNcMQzuDzakAX8jLwyV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b56c6e8e2b920b457241ad47eaa4db73&oe=60449529"
+            },
+            "width": 240,
+            "height": 240,
+            "caption": "kissing, cat and bunny kissing",
+            "description": "kissing, cat and bunny kissing",
+            "frameCount": 12,
+            "frameRate": 125,
+            "framesPerRow": 4,
+            "framesPerCol": 3,
+            "stickerID": "237319140421079",
+            "spriteURI": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/s480x480/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=110&ccb=2&_nc_sid=0572db&_nc_ohc=mNcMQzuDzakAX8jLwyV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=027f57302e223c451f8d6e1ca148ad67&oe=6041B47F"
+            },
+            "spriteURI2x": {
+                "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/36927132_237319143754412_5848081393548001280_n.png?_nc_cat=110&ccb=2&_nc_sid=0572db&_nc_ohc=mNcMQzuDzakAX8jLwyV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b56c6e8e2b920b457241ad47eaa4db73&oe=60449529"
+            }
+        }
+    ],
+    "mentions": {},
+    "timestamp": "1612540162642",
+    "isGroup": true
+}
